@@ -31,6 +31,8 @@ state_manager = None
 health_server = None
 
 
+import os
+
 class HealthHandler(BaseHTTPRequestHandler):
     """HTTP handler for health checks and core state"""
 
@@ -90,14 +92,36 @@ def start_health_server():
     """Start the health check HTTP server"""
     global health_server
     parser = argparse.ArgumentParser()
-    parser.add_argument("--port", type=int, default=8051, help="Port for the health server")
+    parser.add_argument("--port", type=int, default=BRIDGE_PORT, help="Port for the health server")
     args = parser.parse_args()
     port = args.port
 
+    # Ensure state directory exists to write the selected port file
     try:
-        health_server = HTTPServer(('localhost', port), HealthHandler)
-        logger.info(f"Health endpoint online. Listening on http://localhost:{port}/health")
-        logger.info(f"Core state endpoint online. Listening on http://localhost:{port}/state")
+        os.makedirs(os.path.dirname(BRIDGE_PORT_FILE), exist_ok=True)
+    except Exception:
+        pass
+
+    bind_port = port
+    try:
+        health_server = HTTPServer(('localhost', bind_port), HealthHandler)
+    except OSError as e:
+        # Address already in use (EADDRINUSE)
+        logger.warning(f"Port {bind_port} is already in use. Trying next port.")
+        bind_port = port + 1
+        health_server = HTTPServer(('localhost', bind_port), HealthHandler)
+
+    # Persist the actual selected port for other components
+    try:
+        with open(BRIDGE_PORT_FILE, 'w') as pf:
+            pf.write(str(bind_port))
+    except Exception as e:
+        logger.warning(f"Could not write port file {BRIDGE_PORT_FILE}: {e}")
+
+    logger.info(f"Health endpoint online. Listening on http://localhost:{bind_port}/health")
+    logger.info(f"Core state endpoint online. Listening on http://localhost:{bind_port}/state")
+
+    try:
         health_server.serve_forever()
     except Exception as e:
         logger.error(f"Fatal error: Failed to start health server: {e}", exc_info=True)

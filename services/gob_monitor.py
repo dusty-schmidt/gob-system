@@ -23,7 +23,7 @@ print(f"Attempting to import 'logger' from: {UTILS_PATH}")
 
 try:
     from logger import setup_logger
-    from config import MONITOR_LOG_FILE
+    from config import MONITOR_LOG_FILE, PORTS, BRIDGE_PORT_FILE
     print("--> Universal logger and config modules imported successfully.")
 except ImportError as e:
     print(f"FATAL: Cannot import universal logger or config from {UTILS_PATH}.")
@@ -36,8 +36,11 @@ except ImportError as e:
 class GOBMonitor:
     """Grid Overwatch Bridge monitoring interface."""
 
-    def __init__(self, endpoint: str = "http://localhost:8051/state",
+    def __init__(self, endpoint: str | None = None,
                  refresh_interval: int = 5):
+        # Default endpoint from shared config; allow override by arg
+        if endpoint is None:
+            endpoint = f"http://localhost:{PORTS['grid_overwatch_bridge']}/state"
         self.endpoint = endpoint
         self.refresh_interval = refresh_interval
         # Note: Logger is now initialized in main() to ensure console output first
@@ -69,6 +72,21 @@ class GOBMonitor:
                     return False, None, f"HTTP {response.getcode()}"
 
         except urllib.error.URLError as e:
+            # Optional enhancement: if the bridge persisted a different port, try once
+            try:
+                with open(BRIDGE_PORT_FILE, 'r') as pf:
+                    port_str = pf.read().strip()
+                if port_str and port_str.isdigit():
+                    alt_endpoint = f"http://localhost:{int(port_str)}/state"
+                    if alt_endpoint != self.endpoint:
+                        self.logger.info(f"Retrying state fetch using discovered port: {alt_endpoint}")
+                        self.endpoint = alt_endpoint
+                        with urllib.request.urlopen(self.endpoint, timeout=2) as response:
+                            if response.getcode() == 200:
+                                data = json.loads(response.read().decode('utf-8'))
+                                return True, data, "ONLINE"
+            except Exception:
+                pass
             return False, None, f"OFFLINE - {e.reason}"
         except json.JSONDecodeError:
             return False, None, "INVALID RESPONSE"

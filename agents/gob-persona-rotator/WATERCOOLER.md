@@ -1,2 +1,0 @@
-# Watercooler Chat Logs
-
