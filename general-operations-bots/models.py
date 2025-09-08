@@ -48,4 +48,21 @@ from lib.logger import setup_logger
 
 # Initialize the logger for the models module
 logger = setup_logger('gob-models')
+
+class ModelType(Enum):
+    CHAT = "chat"
+    EMBEDDING = "embedding"
+
+@dataclass
+class ModelConfig:
+    type: str
+    provider: str
+    name: str
+    api_base: str
+    ctx_length: int
+    vision: bool
+    limit_requests: int
+    limit_input: int
+    limit_output: int
+    kwargs: dict
 # ... (rest of the file is the same)

@@ -1,12 +1,12 @@
 {
-  "date": "2025-09-07",
-  "day_of_year": 250,
-  "gob_title": "GOB: Gladiator Of Bandwidth",
-  "gob_acronym": "Gladiator Of Bandwidth",
-  "gob_title_index": 4,
+  "date": "2025-09-08",
+  "day_of_year": 251,
+  "gob_title": "GOB: Guru Of Binary",
+  "gob_acronym": "Guru Of Binary",
+  "gob_title_index": 5,
   "connection_status": "online",
-  "session_id": "5cc6caaa",
+  "session_id": "ec9f6383",
   "personality": null,
-  "created_at": "2025-09-07T17:27:50.653624",
-  "updated_at": "2025-09-07T17:27:50.653637"
+  "created_at": "2025-09-08T00:00:00.680212",
+  "updated_at": "2025-09-08T00:00:00.681004"
 }

@@ -37,4 +37,43 @@ from lib.logger import setup_logger
 
 # Initialize the logger for the agent module
 logger = setup_logger('gob-agent')
+
+class AgentContextType(Enum):
+    AGENT = "agent"
+    USER = "user"
+
+@dataclass
+class UserMessage:
+    content: str
+
+@dataclass
+class AgentContext:
+    type: AgentContextType
+    message: UserMessage
+
+@dataclass
+class LoopData:
+    pass
+
+class Agent:
+    pass
+
+@dataclass
+class AgentConfig:
+    chat_model: models.ModelConfig
+    utility_model: models.ModelConfig
+    embeddings_model: models.ModelConfig
+    browser_model: models.ModelConfig
+    profile: str = "default"
+    memory_subdir: str = "default"
+    knowledge_subdirs: list[str] = field(default_factory=lambda: ["default"])
+    mcp_servers: str = ""
+    browser_http_headers: str = ""
+    code_exec_mode: str = "local"
+    code_exec_env: str = "docker"
+    ssh_user: str = "user"
+    ssh_host: str = "localhost"
+    ssh_port: int = 22
+    ssh_pass: str = ""
+    additional: dict = field(default_factory=dict)
 # ... (rest of the file is the same)

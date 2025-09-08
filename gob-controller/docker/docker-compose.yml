@@ -1,0 +1,13 @@
+services:
+  gob-core:
+    build: .
+    ports:
+      - "80:80"           # Main web interface
+      - "8051:8051"       # Grid-Overwatch-Bridge API
+      - "3000:3000"       # Frontend dev server
+      - "22:22"           # SSH access
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    environment:
+      - GOB_MODE=production
