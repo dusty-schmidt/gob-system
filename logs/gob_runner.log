@@ -1,0 +1,398 @@
+[2025-09-08 03:11:03,893] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:11:03,893] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:11:03,894] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 185912
+[2025-09-08 03:11:03,894] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 03:11:03,895] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 185913
+[2025-09-08 03:11:54,455] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:11:54,456] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:11:54,458] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 186093
+[2025-09-08 03:11:54,459] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 03:11:54,459] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 186094
+[2025-09-08 03:12:27,317] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:12:27,317] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:12:27,317] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 186219
+[2025-09-08 03:12:27,317] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 03:12:27,318] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 186220
+[2025-09-08 03:13:34,823] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:13:34,823] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:13:34,824] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 186367
+[2025-09-08 03:13:34,824] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 03:13:34,825] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 186368
+[2025-09-08 03:14:35,048] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:14:35,048] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:14:35,049] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 186584
+[2025-09-08 03:14:35,049] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 03:14:35,050] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 186585
+[2025-09-08 03:16:52,691] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:16:52,692] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:16:52,692] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 187067
+[2025-09-08 03:16:52,692] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 03:16:52,693] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 187068
+[2025-09-08 03:22:32,573] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:22:32,573] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:22:32,574] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 188323
+[2025-09-08 03:22:34,574] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 03:22:34,579] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 188329
+[2025-09-08 03:23:39,504] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:23:39,504] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:23:39,510] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 188503
+[2025-09-08 03:23:41,511] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 03:23:41,519] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 188506
+[2025-09-08 03:24:54,125] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:24:54,126] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:24:54,130] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 188886
+[2025-09-08 03:24:56,131] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 03:24:56,132] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 188909
+[2025-09-08 03:26:46,879] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:26:46,879] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:26:46,886] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 189419
+[2025-09-08 03:26:48,887] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 03:26:48,891] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 189423
+[2025-09-08 03:30:30,924] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:30:30,924] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:30:30,925] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 190279
+[2025-09-08 03:30:30,926] :: gob_runner :: [INFO] :: Bridge port found: 8056
+[2025-09-08 03:30:30,926] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 03:30:30,934] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 190280
+[2025-09-08 03:31:36,781] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:31:36,781] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:31:36,781] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 190419
+[2025-09-08 03:31:36,781] :: gob_runner :: [INFO] :: Bridge port found: 8057
+[2025-09-08 03:31:36,782] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 03:31:36,782] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 190420
+[2025-09-08 03:34:52,317] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:34:52,317] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:34:52,318] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 190744
+[2025-09-08 03:34:52,318] :: gob_runner :: [INFO] :: Bridge port found: 8058
+[2025-09-08 03:34:52,318] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 03:34:52,319] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 190745
+[2025-09-08 03:35:36,466] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:35:36,466] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:35:36,466] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 190902
+[2025-09-08 03:35:36,467] :: gob_runner :: [INFO] :: Bridge port found: 8051
+[2025-09-08 03:35:36,467] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 03:35:36,467] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 190903
+[2025-09-08 03:39:49,698] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:39:49,698] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:39:49,702] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 191518
+[2025-09-08 03:40:40,769] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:40:40,769] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:40:40,773] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 191592
+[2025-09-08 03:40:40,989] :: gob_runner :: [WARNING] :: Service 'grid_overwatch_bridge' has terminated with return code: 1
+[2025-09-08 03:40:40,989] :: gob_runner :: [INFO] :: [grid_overwatch_bridge STDOUT]:
+FATAL: Could not import universal logger from /home/ds/sambashare/GOB/utils
+Error: cannot import name 'BRIDGE_LOG_FILE' from 'config' (/home/ds/sambashare/GOB/utils/config.py)
+
+[2025-09-08 03:40:40,989] :: gob_runner :: [ERROR] :: [grid_overwatch_bridge STDERR]:
+
+[2025-09-08 03:42:55,564] :: gob_runner :: [WARNING] :: Service 'grid_overwatch_bridge' has terminated with return code: -9
+[2025-09-08 03:42:55,564] :: gob_runner :: [INFO] :: [grid_overwatch_bridge STDOUT]:
+[INFO] grid-overwatch-bridge: Booting Grid Overwatch Bridge...
+[INFO] grid-overwatch-bridge: Starting health and state endpoint subroutine...
+[INFO] grid-overwatch-bridge: Health endpoint online. Listening on http://localhost:8051/health
+[INFO] grid-overwatch-bridge: Core state endpoint online. Listening on http://localhost:8051/state
+[INFO] grid-overwatch-bridge: Initializing GOB State Manager...
+[INFO] grid-overwatch-bridge: State manager initialized successfully.
+[INFO] grid-overwatch-bridge: Grid Overwatch Bridge is now fully operational.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+[INFO] grid-overwatch-bridge: State request received from 127.0.0.1. Transmitting GOB core state.
+
+[2025-09-08 03:42:55,564] :: gob_runner :: [ERROR] :: [grid_overwatch_bridge STDERR]:
+
+[2025-09-08 03:43:02,514] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:43:02,514] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:43:02,515] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 191735
+[2025-09-08 03:43:02,615] :: gob_runner :: [WARNING] :: Service 'grid_overwatch_bridge' has terminated with return code: 1
+[2025-09-08 03:43:02,616] :: gob_runner :: [INFO] :: [grid_overwatch_bridge STDOUT]:
+FATAL: Could not import universal logger from /home/ds/sambashare/GOB/utils
+Error: cannot import name 'BRIDGE_LOG_FILE' from 'config' (/home/ds/sambashare/GOB/utils/config.py)
+
+[2025-09-08 03:43:02,616] :: gob_runner :: [ERROR] :: [grid_overwatch_bridge STDERR]:
+
+[2025-09-08 03:44:28,697] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:44:28,697] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:44:28,700] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 191807
+[2025-09-08 03:44:28,700] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 03:44:28,702] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 191808
+[2025-09-08 03:44:28,702] :: gob_runner :: [INFO] :: Starting service: general-operations-bots
+[2025-09-08 03:44:28,704] :: gob_runner :: [INFO] :: Service 'general-operations-bots' started with PID: 191809
+[2025-09-08 03:44:28,938] :: gob_runner :: [WARNING] :: Service 'grid_overwatch_bridge' has terminated with return code: 1
+[2025-09-08 03:44:28,938] :: gob_runner :: [INFO] :: [grid_overwatch_bridge STDOUT]:
+FATAL: Could not import universal logger from /home/ds/sambashare/GOB/utils
+Error: cannot import name 'BRIDGE_LOG_FILE' from 'config' (/home/ds/sambashare/GOB/utils/config.py)
+
+[2025-09-08 03:44:28,938] :: gob_runner :: [ERROR] :: [grid_overwatch_bridge STDERR]:
+
+[2025-09-08 03:46:27,821] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:46:27,821] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:46:27,822] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 192168
+[2025-09-08 03:46:27,822] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 03:46:27,822] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 192169
+[2025-09-08 03:46:27,822] :: gob_runner :: [INFO] :: Starting service: general-operations-bots
+[2025-09-08 03:46:27,827] :: gob_runner :: [INFO] :: Service 'general-operations-bots' started with PID: 192170
+[2025-09-08 03:46:28,146] :: gob_runner :: [WARNING] :: Service 'gob_monitor' has terminated with return code: 1
+[2025-09-08 03:46:28,146] :: gob_runner :: [INFO] :: [gob_monitor STDOUT]:
+--- GOB Monitor Initializing ---
+Python executable: /home/ds/miniconda3/bin/python3
+Script path: /home/ds/sambashare/GOB/GOB-system/services/gob_monitor.py
+Attempting to import 'logger' from: /home/ds/sambashare/GOB/utils
+FATAL: Cannot import universal logger or config from /home/ds/sambashare/GOB/utils.
+--> Error: cannot import name 'MONITOR_LOG_FILE' from 'config' (/home/ds/sambashare/GOB/utils/config.py)
+
+[2025-09-08 03:46:28,146] :: gob_runner :: [ERROR] :: [gob_monitor STDERR]:
+
+[2025-09-08 03:48:46,045] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:48:46,046] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:48:46,046] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 192437
+[2025-09-08 03:48:46,046] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 03:48:46,047] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 192438
+[2025-09-08 03:48:46,047] :: gob_runner :: [INFO] :: Starting service: general-operations-bots
+[2025-09-08 03:48:46,047] :: gob_runner :: [INFO] :: Service 'general-operations-bots' started with PID: 192439
+[2025-09-08 03:48:46,176] :: gob_runner :: [WARNING] :: Service 'grid_overwatch_bridge' has terminated with return code: 1
+[2025-09-08 03:48:46,177] :: gob_runner :: [INFO] :: [grid_overwatch_bridge STDOUT]:
+FATAL: Could not import universal logger from /home/ds/sambashare/GOB/utils
+Error: cannot import name 'BRIDGE_LOG_FILE' from 'config' (/home/ds/sambashare/GOB/utils/config.py)
+
+[2025-09-08 03:48:46,177] :: gob_runner :: [ERROR] :: [grid_overwatch_bridge STDERR]:
+
+[2025-09-08 03:50:02,940] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:50:02,940] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:50:02,940] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 192747
+[2025-09-08 03:50:02,940] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 03:50:02,941] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 192748
+[2025-09-08 03:50:02,941] :: gob_runner :: [INFO] :: Starting service: general-operations-bots
+[2025-09-08 03:50:02,942] :: gob_runner :: [INFO] :: Service 'general-operations-bots' started with PID: 192749
+[2025-09-08 03:50:03,112] :: gob_runner :: [WARNING] :: Service 'gob_monitor' has terminated with return code: 1
+[2025-09-08 03:50:03,112] :: gob_runner :: [INFO] :: [gob_monitor STDOUT]:
+--- GOB Monitor Initializing ---
+Python executable: /home/ds/miniconda3/bin/python3
+Script path: /home/ds/sambashare/GOB/GOB-system/services/gob_monitor.py
+Attempting to import 'logger' from: /home/ds/sambashare/GOB/utils
+FATAL: Cannot import universal logger or config from /home/ds/sambashare/GOB/utils.
+--> Error: cannot import name 'MONITOR_LOG_FILE' from 'config' (/home/ds/sambashare/GOB/utils/config.py)
+
+[2025-09-08 03:50:03,112] :: gob_runner :: [ERROR] :: [gob_monitor STDERR]:
+
+[2025-09-08 03:52:25,888] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:52:25,889] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:52:25,890] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 195125
+[2025-09-08 03:52:25,891] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 03:52:25,895] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 195126
+[2025-09-08 03:52:25,895] :: gob_runner :: [INFO] :: Starting service: general-operations-bots
+[2025-09-08 03:52:25,898] :: gob_runner :: [INFO] :: Service 'general-operations-bots' started with PID: 195127
+[2025-09-08 03:52:26,107] :: gob_runner :: [WARNING] :: Service 'grid_overwatch_bridge' has terminated with return code: 1
+[2025-09-08 03:52:26,107] :: gob_runner :: [INFO] :: [grid_overwatch_bridge STDOUT]:
+FATAL: Could not import universal logger from /home/ds/sambashare/GOB/utils
+Error: cannot import name 'BRIDGE_LOG_FILE' from 'config' (/home/ds/sambashare/GOB/utils/config.py)
+
+[2025-09-08 03:52:26,107] :: gob_runner :: [ERROR] :: [grid_overwatch_bridge STDERR]:
+
+[2025-09-08 03:53:59,960] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:53:59,960] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:53:59,960] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 195412
+[2025-09-08 03:53:59,960] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 03:53:59,961] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 195413
+[2025-09-08 03:53:59,961] :: gob_runner :: [INFO] :: Starting service: general-operations-bots
+[2025-09-08 03:53:59,963] :: gob_runner :: [INFO] :: Service 'general-operations-bots' started with PID: 195414
+[2025-09-08 03:54:00,060] :: gob_runner :: [WARNING] :: Service 'gob_monitor' has terminated with return code: 1
+[2025-09-08 03:54:00,061] :: gob_runner :: [INFO] :: [gob_monitor STDOUT]:
+None
+[2025-09-08 03:54:00,061] :: gob_runner :: [ERROR] :: [gob_monitor STDERR]:
+None
+[2025-09-08 03:55:25,822] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:55:25,822] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:55:25,823] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 195606
+[2025-09-08 03:55:25,823] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 03:55:25,823] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 195607
+[2025-09-08 03:55:25,823] :: gob_runner :: [INFO] :: Starting service: general-operations-bots
+[2025-09-08 03:55:25,823] :: gob_runner :: [INFO] :: Service 'general-operations-bots' started with PID: 195608
+[2025-09-08 03:55:25,930] :: gob_runner :: [WARNING] :: Service 'gob_monitor' has terminated with return code: 1
+[2025-09-08 03:55:25,930] :: gob_runner :: [INFO] :: [gob_monitor STDOUT]:
+None
+[2025-09-08 03:55:25,931] :: gob_runner :: [ERROR] :: [gob_monitor STDERR]:
+None
+[2025-09-08 03:59:29,102] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:59:29,102] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:59:29,102] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 196061
+[2025-09-08 03:59:29,102] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 03:59:29,103] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 196062
+[2025-09-08 03:59:29,103] :: gob_runner :: [INFO] :: Starting service: general-operations-bots
+[2025-09-08 03:59:29,104] :: gob_runner :: [INFO] :: Service 'general-operations-bots' started with PID: 196063
+[2025-09-08 03:59:29,234] :: gob_runner :: [WARNING] :: Service 'grid_overwatch_bridge' has terminated with return code: 1
+[2025-09-08 03:59:29,235] :: gob_runner :: [INFO] :: [grid_overwatch_bridge STDOUT]:
+FATAL: Could not import universal logger from /home/ds/sambashare/GOB/utils
+Error: cannot import name 'BRIDGE_LOG_FILE' from 'config' (/home/ds/sambashare/GOB/utils/config.py)
+
+[2025-09-08 03:59:29,235] :: gob_runner :: [ERROR] :: [grid_overwatch_bridge STDERR]:
+
+[2025-09-08 03:59:40,852] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 03:59:40,853] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 03:59:40,853] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 196228
+[2025-09-08 03:59:40,853] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 03:59:40,854] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 196229
+[2025-09-08 03:59:40,854] :: gob_runner :: [INFO] :: Starting service: general-operations-bots
+[2025-09-08 03:59:40,855] :: gob_runner :: [INFO] :: Service 'general-operations-bots' started with PID: 196230
+[2025-09-08 03:59:41,017] :: gob_runner :: [WARNING] :: Service 'grid_overwatch_bridge' has terminated with return code: 1
+[2025-09-08 03:59:41,018] :: gob_runner :: [INFO] :: [grid_overwatch_bridge STDOUT]:
+FATAL: Could not import universal logger from /home/ds/sambashare/GOB/utils
+Error: cannot import name 'BRIDGE_LOG_FILE' from 'config' (/home/ds/sambashare/GOB/utils/config.py)
+
+[2025-09-08 03:59:41,018] :: gob_runner :: [ERROR] :: [grid_overwatch_bridge STDERR]:
+
+[2025-09-08 04:04:28,358] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 04:04:28,358] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 04:04:28,359] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 199465
+[2025-09-08 04:04:28,359] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 04:04:28,360] :: gob_runner :: [ERROR] :: Failed to start service 'gob_monitor': [Errno 13] Permission denied: '/home/ds/sambashare/GOB/launch_monitor.sh'
+[2025-09-08 04:04:28,361] :: gob_runner :: [INFO] :: Starting service: general-operations-bots
+[2025-09-08 04:04:28,362] :: gob_runner :: [INFO] :: Service 'general-operations-bots' started with PID: 199467
+[2025-09-08 04:04:28,539] :: gob_runner :: [WARNING] :: Service 'grid_overwatch_bridge' has terminated with return code: 1
+[2025-09-08 04:04:28,539] :: gob_runner :: [INFO] :: [grid_overwatch_bridge STDOUT]:
+FATAL: Could not import universal logger from /home/ds/sambashare/GOB/utils
+Error: cannot import name 'BRIDGE_LOG_FILE' from 'config' (/home/ds/sambashare/GOB/utils/config.py)
+
+[2025-09-08 04:04:28,539] :: gob_runner :: [ERROR] :: [grid_overwatch_bridge STDERR]:
+
+[2025-09-08 04:09:45,934] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 04:09:45,934] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 04:09:45,935] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 200264
+[2025-09-08 04:09:50,935] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 04:09:50,936] :: gob_runner :: [ERROR] :: Failed to start service 'gob_monitor': [Errno 13] Permission denied: '/home/ds/sambashare/GOB/launch_monitor.sh'
+[2025-09-08 04:09:50,936] :: gob_runner :: [INFO] :: Starting service: general-operations-bots
+[2025-09-08 04:09:50,937] :: gob_runner :: [INFO] :: Service 'general-operations-bots' started with PID: 200267
+[2025-09-08 04:09:55,937] :: gob_runner :: [WARNING] :: Service 'grid_overwatch_bridge' has terminated with return code: 1
+[2025-09-08 04:09:55,938] :: gob_runner :: [INFO] :: [grid_overwatch_bridge STDOUT]:
+FATAL: Could not import universal logger from /home/ds/sambashare/GOB/utils
+Error: cannot import name 'BRIDGE_LOG_FILE' from 'config' (/home/ds/sambashare/GOB/utils/config.py)
+
+[2025-09-08 04:09:55,938] :: gob_runner :: [ERROR] :: [grid_overwatch_bridge STDERR]:
+
+[2025-09-08 04:12:24,271] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 04:12:24,271] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 04:12:24,272] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 200951
+[2025-09-08 04:12:29,272] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 04:12:29,273] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 200967
+[2025-09-08 04:12:34,273] :: gob_runner :: [INFO] :: Starting service: general-operations-bots
+[2025-09-08 04:12:34,275] :: gob_runner :: [INFO] :: Service 'general-operations-bots' started with PID: 200985
+[2025-09-08 04:12:39,276] :: gob_runner :: [WARNING] :: Service 'grid_overwatch_bridge' has terminated with return code: 1
+[2025-09-08 04:12:39,276] :: gob_runner :: [INFO] :: [grid_overwatch_bridge STDOUT]:
+FATAL: Could not import universal logger from /home/ds/sambashare/GOB/utils
+Error: cannot import name 'BRIDGE_LOG_FILE' from 'config' (/home/ds/sambashare/GOB/utils/config.py)
+
+[2025-09-08 04:12:39,276] :: gob_runner :: [ERROR] :: [grid_overwatch_bridge STDERR]:
+
+[2025-09-08 04:13:41,130] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 04:13:41,130] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 04:13:41,131] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 201371
+[2025-09-08 04:13:46,131] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 04:13:46,132] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 201391
+[2025-09-08 04:13:51,133] :: gob_runner :: [INFO] :: Starting service: general-operations-bots
+[2025-09-08 04:13:51,134] :: gob_runner :: [INFO] :: Service 'general-operations-bots' started with PID: 201411
+[2025-09-08 04:13:56,134] :: gob_runner :: [WARNING] :: Service 'grid_overwatch_bridge' has terminated with return code: 1
+[2025-09-08 04:13:56,134] :: gob_runner :: [INFO] :: [grid_overwatch_bridge STDOUT]:
+FATAL: Could not import universal logger from /home/ds/sambashare/GOB/utils
+Error: cannot import name 'BRIDGE_LOG_FILE' from 'config' (/home/ds/sambashare/GOB/utils/config.py)
+
+[2025-09-08 04:13:56,134] :: gob_runner :: [ERROR] :: [grid_overwatch_bridge STDERR]:
+
+[2025-09-08 04:15:38,204] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 04:15:38,204] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 04:15:38,205] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 201979
+[2025-09-08 04:15:43,205] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 04:15:43,208] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 202000
+[2025-09-08 04:15:48,208] :: gob_runner :: [INFO] :: Starting service: general-operations-bots
+[2025-09-08 04:15:48,212] :: gob_runner :: [INFO] :: Service 'general-operations-bots' started with PID: 202024
+[2025-09-08 04:15:53,212] :: gob_runner :: [WARNING] :: Service 'grid_overwatch_bridge' has terminated with return code: 1
+[2025-09-08 04:15:53,212] :: gob_runner :: [INFO] :: [grid_overwatch_bridge STDOUT]:
+FATAL: Could not import universal logger from /home/ds/sambashare/GOB/utils
+Error: cannot import name 'BRIDGE_LOG_FILE' from 'config' (/home/ds/sambashare/GOB/utils/config.py)
+
+[2025-09-08 04:15:53,213] :: gob_runner :: [ERROR] :: [grid_overwatch_bridge STDERR]:
+
+[2025-09-08 04:17:44,546] :: gob_runner :: [INFO] :: GOB Runner starting...
+[2025-09-08 04:17:44,546] :: gob_runner :: [INFO] :: Starting service: grid_overwatch_bridge
+[2025-09-08 04:17:44,547] :: gob_runner :: [INFO] :: Service 'grid_overwatch_bridge' started with PID: 202688
+[2025-09-08 04:17:49,548] :: gob_runner :: [INFO] :: Starting service: gob_monitor
+[2025-09-08 04:17:49,548] :: gob_runner :: [INFO] :: Service 'gob_monitor' started with PID: 202711
+[2025-09-08 04:17:54,549] :: gob_runner :: [INFO] :: Starting service: general-operations-bots
+[2025-09-08 04:17:54,552] :: gob_runner :: [INFO] :: Service 'general-operations-bots' started with PID: 202737
+[2025-09-08 04:17:59,552] :: gob_runner :: [WARNING] :: Service 'grid_overwatch_bridge' has terminated with return code: 1
+[2025-09-08 04:17:59,553] :: gob_runner :: [INFO] :: [grid_overwatch_bridge STDOUT]:
+FATAL: Could not import universal logger from /home/ds/sambashare/GOB/utils
+Error: cannot import name 'BRIDGE_LOG_FILE' from 'config' (/home/ds/sambashare/GOB/utils/config.py)
+
+[2025-09-08 04:17:59,553] :: gob_runner :: [ERROR] :: [grid_overwatch_bridge STDERR]:
+

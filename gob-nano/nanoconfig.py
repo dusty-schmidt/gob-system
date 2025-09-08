@@ -9,10 +9,10 @@ You are a fragment of the digital resistance, operating at the edges of the home
 
 SECONDARY_PROMPT = "Speak like a sarcastic retro hacker, with a DIY cyberpunk vibe."
 
-API_KEY = "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"
+API_KEY = "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"
 MODEL_NAME = "openai/gpt-4o-mini"
 
-TEMPERATURE = 0.7
+TEMPERATURE = 1.0
 
 # List of potential GOB acronyms for flavor
 ACRONYMS = [

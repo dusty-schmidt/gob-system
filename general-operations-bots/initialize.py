@@ -120,7 +120,9 @@ def initialize_agent():
 def initialize_chats():
     from python.helpers import persist_chat
     async def initialize_chats_async():
+        PrintStyle().print("PRINT: Loading tmp chats...")
         persist_chat.load_tmp_chats()
+        PrintStyle().print("PRINT: Tmp chats loaded.")
     return defer.DeferredTask().start_task(initialize_chats_async)
 
 def initialize_mcp():

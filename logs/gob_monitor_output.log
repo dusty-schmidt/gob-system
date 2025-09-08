@@ -1,0 +1,1257 @@
+--- GOB Monitor Initializing ---
+Python executable: /home/ds/miniconda3/bin/python3
+Script path: /home/ds/sambashare/GOB/GOB-system/services/gob_monitor.py
+Attempting to import 'logger' from: /home/ds/sambashare/GOB/utils
+--> Universal logger and config modules imported successfully.
+[INFO] gob-monitor: Logger assigned to GOBMonitor instance.
+[INFO] gob-monitor: Monitor will start in 3 seconds...
+--> Monitor will take over the screen in 3 seconds. Press Ctrl+C to exit at any time.
+[INFO] gob-monitor: Starting GOB Monitor main loop...
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[H[2J[3J=================================================================
+GRID OVERWATCH BRIDGE - LIVE MONITOR
+=================================================================
+Endpoint: http://localhost:8051/state
+Refresh:  5s
+-----------------------------------------------------------------
+STATUS: [✗] OFFLINE - [Errno 111] Connection refused
+
+--- NO DATA AVAILABLE ---
+
+=================================================================
+Next refresh in 5s (Ctrl+C to exit)
+[WARNING] gob-monitor: Failed to fetch state: OFFLINE - [Errno 111] Connection refused

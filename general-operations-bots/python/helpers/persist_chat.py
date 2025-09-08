@@ -53,7 +53,10 @@ def save_tmp_chats():
 
 def load_tmp_chats():
     """Load all contexts from the chats folder"""
-    _convert_v080_chats()
+    try:
+        _convert_v080_chats()
+    except Exception as e:
+        print(f"Error converting v0.8.0 chats: {e}")
     folders = files.list_files(CHATS_FOLDER, "*")
     json_files = []
     for folder_name in folders:

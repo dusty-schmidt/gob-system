@@ -1,3 +1,10 @@
+# Add the project's 'utils' directory to the Python path
+UTILS_PATH = Path(__file__).parent.parent.parent / 'utils'
+sys.path.insert(0, str(UTILS_PATH))
+
+from logger import setup_logger
+log = setup_logger("gob-agent", "/home/ds/sambashare/GOB/GOB-system/logs/gob-agent.log")
+
 from datetime import timedelta
 import os
 import secrets
@@ -16,9 +23,6 @@ from python.helpers.extract_tools import load_classes_from_folder
 from python.helpers.api import ApiHandler
 from python.helpers.print_style import PrintStyle
 
-# disable logging
-import logging
-logging.getLogger().setLevel(logging.WARNING)
 
 
 # Set the new timezone to 'UTC'
@@ -173,6 +177,8 @@ async def serve_index():
 
 def run():
     PrintStyle().print("Initializing framework...")
+    logger = logging.getLogger('werkzeug')
+    logger.setLevel(logging.ERROR)
 
     # Suppress only request logs but keep the startup messages
     from werkzeug.serving import WSGIRequestHandler
@@ -251,20 +257,29 @@ def run():
 
 def init_a0():
     # initialize contexts and MCP
+    PrintStyle().print("Initializing chats...")
     init_chats = initialize.initialize_chats()
     # only wait for init chats, otherwise they would seem to disappear for a while on restart
     init_chats.result_sync()
+    PrintStyle().print("Chats initialized.")
 
-    initialize.initialize_mcp()
-    # start job loop
-    initialize.initialize_job_loop()
-    # preload
-    initialize.initialize_preload()
+    # PrintStyle().print("Initializing MCP...")
+    # initialize.initialize_mcp()
+    # PrintStyle().print("MCP initialized.")
+    # # start job loop
+    # PrintStyle().print("Initializing job loop...")
+    # initialize.initialize_job_loop()
+    # PrintStyle().print("Job loop initialized.")
+    # # preload
+    # PrintStyle().print("Initializing preload...")
+    # initialize.initialize_preload()
+    # PrintStyle().print("Preload initialized.")
 
 
 
 # run the internal server
 if __name__ == "__main__":
+    os.environ["WEB_UI_PORT"] = "50001"
     runtime.initialize()
     dotenv.load_dotenv()
     run()

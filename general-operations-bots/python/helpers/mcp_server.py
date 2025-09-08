@@ -14,7 +14,7 @@ from starlette.middleware import Middleware
 from starlette.middleware.base import BaseHTTPMiddleware
 from starlette.exceptions import HTTPException as StarletteHTTPException
 from starlette.types import ASGIApp, Receive, Scope, Send
-from fastmcp.server.http import create_sse_app
+from fastmcp_http import create_sse_app
 from starlette.requests import Request
 import threading
 
@@ -323,7 +323,7 @@ class DynamicMcpProxy:
 
     def _create_custom_http_app(self, streamable_http_path, auth_server_provider, auth_settings, debug, routes):
         """Create a custom HTTP app that manages the session manager manually."""
-        from fastmcp.server.http import setup_auth_middleware_and_routes, create_base_app
+        from fastmcp_http import setup_auth_middleware_and_routes, create_base_app
         from mcp.server.streamable_http_manager import StreamableHTTPSessionManager
         from starlette.routing import Mount
         from mcp.server.auth.middleware.bearer_auth import RequireAuthMiddleware
@@ -358,7 +358,7 @@ class DynamicMcpProxy:
 
         # Get auth middleware and routes
         auth_middleware, auth_routes, required_scopes = setup_auth_middleware_and_routes(
-            {}
+            None
         )
 
         server_routes.extend(auth_routes)

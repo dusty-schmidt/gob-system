@@ -1,0 +1,42 @@
+Title: General Operations Bots
+Purpose: Collection of operational agents running under the GOB controller to automate routine tasks.
+Owner/Contact: DS
+Status: Blocked
+
+Interfaces
+- Inputs: Task queues (TBD), filesystem state/, config/*
+- Outputs: logs/, work_logs/post/
+- APIs/CLI: Python entrypoints (see repo), Dockerized agent runtime (planned)
+
+Dependencies
+- Internal: gob-controller, lib/, config/
+- External: Python runtime, dependencies from requirements
+
+Config & Secrets
+- Environment variables: TBD
+- Config files: TBD (ensure non-secret defaults committed; secrets via env)
+
+Runbook
+- Build: Ensure Python deps installed per requirements
+- Run: Start via GOB controller or service entrypoint (see gob-controller)
+- Test: Dry-run agents with sample tasks
+- Troubleshoot:
+  - Issue: Failing silently per 2025-09-08 07:30 watercooler.
+  - Suspected cause: root-owned __pycache__ causing permission errors.
+  - Steps:
+    1) Identify offending paths: find . -type d -name "__pycache__" -exec ls -ld {} +
+    2) If permissions incorrect, fix: sudo chown -R $(whoami):$(id -gn) <path> and remove caches: find . -name "__pycache__" -exec rm -rf {} +
+    3) Re-run with verbose logging enabled.
+
+Health & Observability
+- Logs: logs/ under component and root logs/
+- Ports: N/A
+- Metrics: N/A
+
+Risks & TODOs
+- Add explicit logging to surface startup failures
+- Define clear entrypoint and supervision strategy
+
+References
+- WATERCOOLER.md 2025-09-08 07:30 (blocked details)
+- work_logs/post/* Phase 2 debugging entries

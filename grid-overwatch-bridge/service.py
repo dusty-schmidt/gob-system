@@ -11,21 +11,22 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 import sys
 from pathlib import Path
 
-# Add the project's 'lib' directory to the Python path
-# This allows us to import the universal logger
-LIB_PATH = Path(__file__).parent.parent / 'lib'
-sys.path.insert(0, str(LIB_PATH))
+# Add the project's 'utils' directory to the Python path
+UTILS_PATH = Path(__file__).parent.parent.parent / 'utils'
+sys.path.insert(0, str(UTILS_PATH))
+sys.path.insert(0, str(Path(__file__).parent))
 
 try:
     from logger import setup_logger
     from state_manager import get_state_manager
+    from config import BRIDGE_LOG_FILE, BRIDGE_PORT, BRIDGE_PORT_FILE
 except ImportError as e:
-    print(f"FATAL: Could not import universal logger from {LIB_PATH}")
+    print(f"FATAL: Could not import universal logger from {UTILS_PATH}")
     print(f"Error: {e}")
     sys.exit(1)
 
 # Global instances
-logger = setup_logger("grid-overwatch-bridge")
+logger = setup_logger("grid-overwatch-bridge", BRIDGE_LOG_FILE)
 state_manager = None
 health_server = None
 
@@ -83,13 +84,20 @@ class HealthHandler(BaseHTTPRequestHandler):
         logger.debug(f"HTTP request: {self.address_string()} {format % args}")
 
 
+import argparse
+
 def start_health_server():
     """Start the health check HTTP server"""
     global health_server
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--port", type=int, default=8051, help="Port for the health server")
+    args = parser.parse_args()
+    port = args.port
+
     try:
-        health_server = HTTPServer(('localhost', 8051), HealthHandler)
-        logger.info("Health endpoint online. Listening on http://localhost:8051/health")
-        logger.info("Core state endpoint online. Listening on http://localhost:8051/state")
+        health_server = HTTPServer(('localhost', port), HealthHandler)
+        logger.info(f"Health endpoint online. Listening on http://localhost:{port}/health")
+        logger.info(f"Core state endpoint online. Listening on http://localhost:{port}/state")
         health_server.serve_forever()
     except Exception as e:
         logger.error(f"Fatal error: Failed to start health server: {e}", exc_info=True)

@@ -1,0 +1,37 @@
+Title: Grid Overwatch Bridge
+Purpose: Bridge service enabling communication between grid monitoring and GOB systems.
+Owner/Contact: DS
+Status: Active
+
+Interfaces
+- Inputs: Grid data stream (TBD), config/state
+- Outputs: Logs under logs/, events to GOB controller (planned)
+- APIs/CLI: Python service.py entrypoint
+
+Dependencies
+- Internal: lib/state_manager (import path corrected)
+- External: Python runtime and requirements
+
+Config & Secrets
+- .env variables as needed
+- Config files in component directory
+
+Runbook
+- Build: pip install -r requirements.txt (project root) or component-specific
+- Run: python service.py (ensure PYTHONPATH includes component path)
+- Test: Simulate grid data input
+- Troubleshoot:
+  - Known Issue (fixed): NameError due to incorrect import path; resolved by appending service directory to sys.path
+
+Health & Observability
+- Logs: component logs directory and root logs/
+- Ports: N/A
+- Metrics: N/A
+
+Risks & TODOs
+- Formalize module packaging to avoid sys.path hacks
+- Define message schema to GOB controller
+
+References
+- TODO/CURRENT.md (bridge fixed notes)
+- work_logs/post/20250908_064500_resolve_service_startup_failures.md

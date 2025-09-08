@@ -1,0 +1,38 @@
+Title: Frontend
+Purpose: User-facing interface for the GOB system.
+Owner/Contact: DS
+Status: Active
+
+Interfaces
+- Inputs: API endpoints (TBD)
+- Outputs: Web UI on port 3000 (dev)
+- CLI: npm scripts (start/build/test)
+
+Dependencies
+- Internal: API services (TBD)
+- External: Node.js, npm packages
+
+Config & Secrets
+- .env.development.local for local overrides
+
+Runbook
+- Build: npm install --legacy-peer-deps
+- Run: npm start (ensure port 3000 available)
+- Test: npm test
+- Troubleshoot:
+  - Known Issues:
+    - Port conflict on 3000; check with: ss -tulnp | grep 3000
+    - Docker build peer-deps conflict fixed by --legacy-peer-deps
+
+Health & Observability
+- Logs: captured via helper script or npm output
+- Ports: 3000 (dev)
+- Metrics: N/A
+
+Risks & TODOs
+- Lock dependencies to avoid peer-deps drift
+- Configure production build and reverse proxy for containerized deployment
+
+References
+- WATERCOOLER.md 2025-09-08 06:50, 01:15 entries
+- TODO/CURRENT.md

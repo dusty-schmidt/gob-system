@@ -1,0 +1,46 @@
+# GOB System Components Index (MDC)
+
+Version: v0 (initial introduction)
+Maintainer: Qodo
+Last Updated: 2025-09-08 08:12:00
+
+Purpose
+- Establish a lightweight, human-first manifest format for components within GOB-system/.
+- Provide a consistent place for purpose, status, runbooks, dependencies, and interfaces.
+
+MDC Schema (v0)
+- Title
+- Purpose
+- Owner/Contact
+- Status (Active | Degraded | Blocked | Planned)
+- Interfaces (Inputs | Outputs | APIs | CLI)
+- Dependencies (internal | external)
+- Config & Secrets
+- Runbook (build | run | test | troubleshoot)
+- Health & Observability (logs | ports | metrics)
+- Risks & TODOs
+- References
+
+Initial Coverage Targets
+- general-operations-bots/Component.mdc (Status: Blocked per 2025-09-08 07:30 watercooler entry; suspected __pycache__ permissions)
+- grid-overwatch-bridge/Component.mdc (Status: Active; Python import path fix applied)
+- frontend/Component.mdc (Status: Active; Port 3000 conflict resolved; npm peer-deps workaround)
+
+Conventions
+- File name: Component.mdc inside each component directory.
+- Keep concise and practical. Update status and runbook as state changes.
+- Reference WATERCOOLER.md and relevant work_logs entries for historical context.
+
+Planned Additions (next iterations)
+- gob-controller/Component.mdc
+- gob-mini/Component.mdc
+- gob-nano/Component.mdc
+- guidance-of-build/Component.mdc
+- agents/Component.mdc (or nested cards)
+- services/* (cards per service)
+- prompts/, lib/, config/ (as needed)
+
+References
+- WATERCOOLER.md (latest entries 2025-09-08)
+- DEV-RULES.md (logging and communication standards)
+- work_logs/post/* (Phase 1/2 context)

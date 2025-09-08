@@ -16,16 +16,17 @@ print("--- GOB Monitor Initializing ---")
 print(f"Python executable: {sys.executable}")
 print(f"Script path: {__file__}")
 
-# Add the project's 'lib' directory to the Python path
-LIB_PATH = Path(__file__).parent.parent / 'lib'
-sys.path.insert(0, str(LIB_PATH))
-print(f"Attempting to import 'logger' from: {LIB_PATH}")
+# Add the project's 'utils' directory to the Python path
+UTILS_PATH = Path(__file__).parent.parent.parent / 'utils'
+sys.path.insert(0, str(UTILS_PATH))
+print(f"Attempting to import 'logger' from: {UTILS_PATH}")
 
 try:
     from logger import setup_logger
-    print("--> Universal logger module imported successfully.")
+    from config import MONITOR_LOG_FILE
+    print("--> Universal logger and config modules imported successfully.")
 except ImportError as e:
-    print(f"FATAL: Cannot import universal logger from {LIB_PATH}.")
+    print(f"FATAL: Cannot import universal logger or config from {UTILS_PATH}.")
     print(f"--> Error: {e}")
     sys.exit(1)
 
@@ -140,7 +141,7 @@ class GOBMonitor:
 def main() -> None:
     """Initialize and run the GOB monitor."""
     # Initialize the universal logger with a specific name for this component
-    logger = setup_logger("gob-monitor")
+    logger = setup_logger("gob-monitor", MONITOR_LOG_FILE)
     
     monitor = GOBMonitor()
     monitor.set_logger(logger)
