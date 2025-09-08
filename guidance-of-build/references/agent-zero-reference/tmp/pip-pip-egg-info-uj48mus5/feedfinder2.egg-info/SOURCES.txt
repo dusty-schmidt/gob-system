@@ -1,9 +1,0 @@
-README.rst
-feedfinder2.py
-setup.cfg
-setup.py
-/home/ds/sambashare/gob_agent/tmp/pip-pip-egg-info-uj48mus5/feedfinder2.egg-info/PKG-INFO
-/home/ds/sambashare/gob_agent/tmp/pip-pip-egg-info-uj48mus5/feedfinder2.egg-info/SOURCES.txt
-/home/ds/sambashare/gob_agent/tmp/pip-pip-egg-info-uj48mus5/feedfinder2.egg-info/dependency_links.txt
-/home/ds/sambashare/gob_agent/tmp/pip-pip-egg-info-uj48mus5/feedfinder2.egg-info/requires.txt
-/home/ds/sambashare/gob_agent/tmp/pip-pip-egg-info-uj48mus5/feedfinder2.egg-info/top_level.txt

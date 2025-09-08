@@ -1,0 +1,17 @@
+# GOB Project Configuration (TOML)
+
+[ports]
+grid_overwatch_bridge = 8051
+frontend = 3000
+general_operations_bots = 50001
+
+[logs]
+base_dir = "/home/ds/sambashare/GOB/GOB-system/logs"
+bridge = "/home/ds/sambashare/GOB/GOB-system/logs/grid-overwatch-bridge.log"
+frontend = "/home/ds/sambashare/GOB/GOB-system/logs/frontend.log"
+monitor = "/home/ds/sambashare/GOB/GOB-system/logs/gob-monitor.log"
+runner = "/home/ds/sambashare/GOB/GOB-system/logs/gob_runner.log"
+agent = "/home/ds/sambashare/GOB/GOB-system/logs/gob-agent.log"
+
+[env]
+python = "3.11"

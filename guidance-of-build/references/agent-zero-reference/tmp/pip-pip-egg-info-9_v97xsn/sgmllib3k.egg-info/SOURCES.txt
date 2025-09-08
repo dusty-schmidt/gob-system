@@ -1,8 +1,0 @@
-README
-setup.cfg
-setup.py
-sgmllib.py
-/home/ds/sambashare/gob_agent/tmp/pip-pip-egg-info-9_v97xsn/sgmllib3k.egg-info/PKG-INFO
-/home/ds/sambashare/gob_agent/tmp/pip-pip-egg-info-9_v97xsn/sgmllib3k.egg-info/SOURCES.txt
-/home/ds/sambashare/gob_agent/tmp/pip-pip-egg-info-9_v97xsn/sgmllib3k.egg-info/dependency_links.txt
-/home/ds/sambashare/gob_agent/tmp/pip-pip-egg-info-9_v97xsn/sgmllib3k.egg-info/top_level.txt
