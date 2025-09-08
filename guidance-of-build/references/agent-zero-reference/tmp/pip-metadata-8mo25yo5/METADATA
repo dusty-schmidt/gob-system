@@ -1,0 +1,19 @@
+Metadata-Version: 2.3
+Name: ansio
+Version: 0.0.1
+Summary: AnsI/O module for ansi input & output
+Project-URL: Homepage, https://github.com/nineteendo/ansio
+Project-URL: Issues, https://github.com/nineteendo/ansio/issues
+Author-email: Nice Zombies <nineteendo19d0@gmail.com>
+License-File: LICENSE
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
+# AnsI/O
+
+[![pytest](https://github.com/nineteendo/ansio/actions/workflows/pytest.yml/badge.svg)](https://github.com/nineteendo/ansio/actions/workflows/pytest.yml)
+
+AnsI/O module for ansi input &amp; output

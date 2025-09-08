@@ -1,0 +1,52 @@
+/* /home/ds/sambashare/GOB/frontend/src/components/Sidebar.css */
+
+#sidebar-content {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.sidebar-actions {
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--color-border-dark);
+}
+
+.sidebar-actions button {
+  width: 100%;
+  padding: 10px;
+  background-color: #2d2d2d;
+  border: 1px solid var(--color-border-dark);
+  color: var(--color-text-dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: var(--font-family-main);
+}
+
+.sidebar-actions button:hover {
+  background-color: #3a3a3a;
+}
+
+.chat-list {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0;
+  flex-grow: 1;
+  overflow-y: auto;
+}
+
+.chat-list li {
+  padding: 10px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-bottom: 4px;
+  font-family: var(--font-family-code);
+}
+
+.chat-list li:hover {
+  background-color: #2a2a2a;
+}
+
+.chat-list li.active {
+  background-color: #3a3a3a;
+  font-weight: bold;
+}

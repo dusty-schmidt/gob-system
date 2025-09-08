@@ -1,0 +1,14 @@
+AUTHORS
+COPYING
+INSTALL
+MANIFEST.in
+README
+README.rst
+setup.py
+/home/ds/sambashare/gob_agent/tmp/pip-pip-egg-info-6piwy5gi/tinysegmenter.egg-info/PKG-INFO
+/home/ds/sambashare/gob_agent/tmp/pip-pip-egg-info-6piwy5gi/tinysegmenter.egg-info/SOURCES.txt
+/home/ds/sambashare/gob_agent/tmp/pip-pip-egg-info-6piwy5gi/tinysegmenter.egg-info/dependency_links.txt
+/home/ds/sambashare/gob_agent/tmp/pip-pip-egg-info-6piwy5gi/tinysegmenter.egg-info/top_level.txt
+doc/man/tinysegmenter.7.rst
+src/tinysegmenter.py
+tests/test.py

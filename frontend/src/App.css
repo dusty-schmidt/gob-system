@@ -1,0 +1,90 @@
+/* /home/ds/sambashare/GOB/frontend/src/App.css */
+
+.App {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+}
+
+#sidebar {
+  width: 250px;
+  background-color: var(--color-panel-dark);
+  border-right: 1px solid var(--color-border-dark);
+  padding: 1rem;
+  transition: margin-left 0.3s ease-in-out;
+  z-index: 100;
+}
+
+#sidebar.collapsed {
+  margin-left: -250px;
+}
+
+#main-content {
+  flex-grow: 1;
+  position: relative;
+}
+
+.sidebar-toggle {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  background: var(--color-background-dark);
+  border: 1px solid var(--color-border-dark);
+  color: var(--color-text-dark);
+  border-radius: 4px;
+  cursor: pointer;
+  z-index: 101;
+  padding: 8px;
+}
+
+.react-grid-layout {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.react-grid-item {
+  box-sizing: border-box;
+  border: 1px solid var(--color-border-dark);
+  background-color: var(--color-panel-dark);
+  overflow: hidden;
+  transition: all 200ms ease;
+  border-radius: 8px;
+}
+
+.react-grid-item:hover {
+  background-color: #2a2a2a;
+}
+
+.plugin-header {
+  background-color: #2d2d2d;
+  color: var(--color-text-dark);
+  padding: 8px 12px;
+  font-weight: bold;
+  cursor: move;
+  border-bottom: 1px solid var(--color-border-dark);
+  font-family: var(--font-family-code);
+}
+
+.plugin-content {
+  padding: 10px;
+  height: calc(100% - 37px); /* Adjust based on header height */
+  overflow-y: auto;
+  font-family: var(--font-family-code);
+}
+
+/* Custom scrollbar */
+.plugin-content::-webkit-scrollbar {
+  width: 8px;
+}
+
+.plugin-content::-webkit-scrollbar-track {
+  background: var(--color-panel-dark);
+}
+
+.plugin-content::-webkit-scrollbar-thumb {
+  background-color: var(--color-border-dark);
+  border-radius: 4px;
+}

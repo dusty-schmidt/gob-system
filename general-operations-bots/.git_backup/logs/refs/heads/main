@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 739bfe98308dfb54ff1ba1f5ba7f3bacb73aab66 ds <ds@the-mothership.the-net.com> 1757273787 -0400	clone: from https://github.com/agent0ai/agent-zero.git
+739bfe98308dfb54ff1ba1f5ba7f3bacb73aab66 fc154f41c27fa4dd8e0c9ce6e3fa270bf5a30acf ds <ds@the-mothership.the-net.com> 1757291245 -0400	commit: setting up system to streamline github commits and docker rebuilds

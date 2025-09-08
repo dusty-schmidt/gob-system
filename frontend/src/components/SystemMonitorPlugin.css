@@ -1,0 +1,63 @@
+/* /home/ds/sambashare/GOB/frontend/src/components/SystemMonitorPlugin.css */
+
+.monitor-content {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.monitor-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: var(--font-family-code);
+}
+
+.monitor-label {
+  font-weight: bold;
+  color: #a4a4a4;
+}
+
+.monitor-value {
+  font-weight: bold;
+}
+
+.status-online {
+  color: #00ff41;
+}
+
+.status-away {
+  color: #f1c40f;
+}
+
+.status-offline,
+.status-error {
+  color: #e74c3c;
+}
+
+.monitor-controls {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: auto; /* Pushes controls to the bottom */
+}
+
+.monitor-controls button {
+  flex-grow: 1;
+  padding: 8px;
+  background-color: #2d2d2d;
+  border: 1px solid var(--color-border-dark);
+  color: var(--color-text-dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: var(--font-family-main);
+}
+
+.monitor-controls button:hover {
+  background-color: #3a3a3a;
+}
+
+.monitor-controls button:disabled {
+  background-color: #222;
+  color: #555;
+  cursor: not-allowed;
+}

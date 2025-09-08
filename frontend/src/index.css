@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+:root {
+  --color-background-dark: #131313;
+  --color-text-dark: #d4d4d4;
+  --color-panel-dark: #1a1a1a;
+  --color-border-dark: #444444a8;
+
+  --font-family-main: "Rubik", Arial, Helvetica, sans-serif;
+  --font-family-code: "Roboto Mono", monospace;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-family-main);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--color-background-dark);
+  color: var(--color-text-dark);
+  overflow: hidden;
+}

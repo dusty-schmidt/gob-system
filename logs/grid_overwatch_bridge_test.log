@@ -1,0 +1,1539 @@
+[2025-09-07 17:25:36] :: GOB_CORE :: [INFO] :: Test Logger Initialized. Uplink to Grid Overwatch Bridge established.
+[2025-09-07 17:25:36] :: GOB_CORE :: [INFO] :: Booting Grid Overwatch Bridge...
+[2025-09-07 17:25:36] :: GOB_CORE :: [INFO] :: Starting health and state endpoint subroutine...
+[2025-09-07 17:25:36] :: GOB_CORE :: [INFO] :: Initializing GOB State Manager...
+[2025-09-07 17:25:36] :: GOB_CORE :: [INFO] :: State manager initialized successfully.
+[2025-09-07 17:25:36] :: GOB_CORE :: [INFO] :: Grid Overwatch Bridge is now fully operational.
+[2025-09-07 17:25:36] :: GOB_CORE :: [INFO] :: Health endpoint online. Listening on http://localhost:8051/health
+[2025-09-07 17:25:36] :: GOB_CORE :: [INFO] :: Core state endpoint online. Listening on http://localhost:8051/state
+[2025-09-07 17:25:54] :: GOB_CORE :: [WARNING] :: Signal 15 received. Initiating graceful shutdown sequence.
+[2025-09-07 17:25:54] :: GOB_CORE :: [INFO] :: Shutting down HTTP server...
+[2025-09-07 17:25:54] :: GOB_CORE :: [INFO] :: State manager shutting down.
+[2025-09-07 17:25:54] :: GOB_CORE :: [INFO] :: Grid Overwatch Bridge offline.
+[2025-09-07 17:25:54] :: GOB_CORE :: [ERROR] :: A critical unhandled exception occurred in the main loop.
+Traceback (most recent call last):
+  File "/home/ds/sambashare/GOB/grid-overwatch-bridge/service.py", line 126, in main
+    time.sleep(1)
+  File "/home/ds/sambashare/GOB/grid-overwatch-bridge/service.py", line 101, in signal_handler
+    sys.exit(0)
+    ^^^
+NameError: name 'sys' is not defined
+[2025-09-07 17:26:12] :: GOB_CORE :: [INFO] :: Test Logger Initialized. Uplink to Grid Overwatch Bridge established.
+[2025-09-07 17:26:12] :: GOB_CORE :: [INFO] :: Booting Grid Overwatch Bridge...
+[2025-09-07 17:26:12] :: GOB_CORE :: [INFO] :: Starting health and state endpoint subroutine...
+[2025-09-07 17:26:12] :: GOB_CORE :: [INFO] :: Initializing GOB State Manager...
+[2025-09-07 17:26:12] :: GOB_CORE :: [INFO] :: State manager initialized successfully.
+[2025-09-07 17:26:12] :: GOB_CORE :: [INFO] :: Grid Overwatch Bridge is now fully operational.
+[2025-09-07 17:26:12] :: GOB_CORE :: [INFO] :: Health endpoint online. Listening on http://localhost:8051/health
+[2025-09-07 17:26:12] :: GOB_CORE :: [INFO] :: Core state endpoint online. Listening on http://localhost:8051/state
+[2025-09-07 17:27:26] :: GOB_CORE :: [WARNING] :: Signal 15 received. Initiating graceful shutdown sequence.
+[2025-09-07 17:27:26] :: GOB_CORE :: [INFO] :: Shutting down HTTP server...
+[2025-09-07 17:27:26] :: GOB_CORE :: [INFO] :: State manager shutting down.
+[2025-09-07 17:27:26] :: GOB_CORE :: [INFO] :: Grid Overwatch Bridge offline.
+[2025-09-07 17:27:26] :: GOB_CORE :: [ERROR] :: A critical unhandled exception occurred in the main loop.
+Traceback (most recent call last):
+  File "/home/ds/sambashare/GOB/grid-overwatch-bridge/service.py", line 126, in main
+    time.sleep(1)
+  File "/home/ds/sambashare/GOB/grid-overwatch-bridge/service.py", line 101, in signal_handler
+    sys.exit(0)
+    ^^^
+NameError: name 'sys' is not defined
+[2025-09-07 17:27:50] :: GOB_CORE :: [INFO] :: Test Logger Initialized. Uplink to Grid Overwatch Bridge established.
+[2025-09-07 17:27:50] :: GOB_CORE :: [INFO] :: Booting Grid Overwatch Bridge...
+[2025-09-07 17:27:50] :: GOB_CORE :: [INFO] :: Starting health and state endpoint subroutine...
+[2025-09-07 17:27:50] :: GOB_CORE :: [INFO] :: Initializing GOB State Manager...
+[2025-09-07 17:27:50] :: GOB_CORE :: [INFO] :: Health endpoint online. Listening on http://localhost:8051/health
+[2025-09-07 17:27:50] :: GOB_CORE :: [INFO] :: Core state endpoint online. Listening on http://localhost:8051/state
+[2025-09-07 17:27:50] :: GOB_CORE :: [INFO] :: State manager initialized successfully.
+[2025-09-07 17:27:50] :: GOB_CORE :: [INFO] :: Grid Overwatch Bridge is now fully operational.
+[2025-09-07 17:28:00] :: GOB_CORE :: [DEBUG] :: Health check ping received from 127.0.0.1
+[2025-09-07 17:28:00] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /health HTTP/1.1" 200 -
+[2025-09-07 17:28:14] :: GOB_CORE :: [INFO] :: Test Logger Initialized. Uplink to Grid Overwatch Bridge established.
+[2025-09-07 17:28:14] :: GOB_CORE :: [INFO] :: GOB Monitor starting...
+[2025-09-07 17:28:14] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:28:14] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:28:14] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:28:19] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:28:19] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:28:19] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:28:24] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:28:24] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:28:24] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:28:29] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:28:29] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:28:29] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:28:34] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:28:34] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:28:34] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:28:39] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:28:39] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:28:39] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:28:44] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:28:44] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:28:44] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:28:49] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:28:49] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:28:49] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:28:54] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:28:54] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:28:54] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:28:59] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:28:59] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:28:59] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:29:04] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:29:04] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:29:04] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:29:09] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:29:09] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:29:09] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:29:14] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:29:14] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:29:14] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:29:19] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:29:19] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:29:19] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:29:24] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:29:24] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:29:24] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:29:29] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:29:29] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:29:29] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:29:34] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:29:34] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:29:34] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:29:39] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:29:39] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:29:39] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:29:44] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:29:44] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:29:44] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:29:49] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:29:49] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:29:49] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:29:54] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:29:54] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:29:54] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:29:59] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:29:59] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:29:59] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:30:04] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:30:04] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:30:04] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:30:09] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:30:09] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:30:09] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:30:14] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:30:14] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:30:14] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:30:19] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:30:19] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:30:19] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:30:24] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:30:24] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:30:24] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:30:29] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:30:29] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:30:29] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:30:34] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:30:34] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:30:34] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:30:39] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:30:39] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:30:39] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:30:44] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:30:44] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:30:44] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:30:49] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:30:49] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:30:49] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:30:54] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:30:54] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:30:54] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:30:59] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:30:59] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:30:59] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:31:04] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:31:04] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:31:04] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:31:09] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:31:09] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:31:09] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:31:14] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:31:14] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:31:14] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:31:19] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:31:19] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:31:19] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:31:24] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:31:24] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:31:24] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:31:29] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:31:29] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:31:29] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:31:34] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:31:34] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:31:34] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:31:39] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:31:39] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:31:39] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:31:44] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:31:44] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:31:44] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:31:49] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:31:49] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:31:49] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:31:54] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:31:54] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:31:54] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:31:59] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:31:59] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:31:59] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:32:04] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:32:04] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:32:04] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:32:09] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:32:09] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:32:09] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:32:14] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:32:14] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:32:14] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:32:19] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:32:19] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:32:19] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:32:24] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:32:24] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:32:24] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:32:29] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:32:29] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:32:29] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:32:34] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:32:34] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:32:34] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:32:39] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:32:39] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:32:39] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:32:44] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:32:44] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:32:44] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:32:49] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:32:49] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:32:49] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:32:54] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:32:54] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:32:54] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:32:59] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:32:59] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:32:59] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:33:04] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:33:04] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:33:04] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:33:09] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:33:09] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:33:09] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:33:14] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:33:14] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:33:14] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:33:19] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:33:19] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:33:19] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:33:24] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:33:24] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:33:24] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:33:29] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:33:29] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:33:29] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:33:34] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:33:34] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:33:34] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:33:39] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:33:39] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:33:39] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:33:44] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:33:44] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:33:44] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:33:49] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:33:49] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:33:49] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:33:54] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:33:54] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:33:54] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:33:59] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:33:59] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:33:59] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:34:04] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:34:04] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:34:04] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:34:09] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:34:09] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:34:09] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:34:14] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:34:14] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:34:14] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:34:20] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:34:20] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:34:20] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:34:25] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:34:25] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:34:25] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:34:30] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:34:30] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:34:30] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:34:35] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:34:35] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:34:35] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:34:40] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:34:40] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:34:40] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:34:45] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:34:45] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:34:45] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:34:50] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:34:50] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:34:50] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:34:55] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:34:55] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:34:55] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:35:00] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:35:00] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:35:00] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:35:05] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:35:05] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:35:05] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:35:10] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:35:10] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:35:10] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:35:15] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:35:15] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:35:15] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:35:20] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:35:20] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:35:20] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:35:25] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:35:25] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:35:25] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:35:30] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:35:30] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:35:30] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:35:35] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:35:35] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:35:35] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:35:40] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:35:40] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:35:40] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:35:45] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:35:45] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:35:45] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:35:50] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:35:50] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:35:50] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:35:55] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:35:55] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:35:55] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:36:00] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:36:00] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:36:00] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:36:05] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:36:05] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:36:05] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:36:10] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:36:10] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:36:10] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:36:15] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:36:15] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:36:15] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:36:20] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:36:20] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:36:20] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:36:25] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:36:25] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:36:25] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:36:30] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:36:30] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:36:30] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:36:35] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:36:35] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:36:35] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:36:40] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:36:40] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:36:40] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:36:45] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:36:45] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:36:45] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:36:50] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:36:50] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:36:50] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:36:55] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:36:55] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:36:55] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:37:00] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:37:00] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:37:00] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:37:05] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:37:05] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:37:05] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:37:10] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:37:10] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:37:10] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:37:15] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:37:15] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:37:15] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:37:20] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:37:20] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:37:20] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:37:25] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:37:25] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:37:25] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:37:30] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:37:30] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:37:30] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:37:35] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:37:35] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:37:35] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:37:40] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:37:40] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:37:40] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:37:45] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:37:45] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:37:45] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:37:50] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:37:50] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:37:50] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:37:55] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:37:55] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:37:55] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:38:00] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:38:00] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:38:00] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:38:05] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:38:05] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:38:05] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:38:10] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:38:10] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:38:10] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:38:15] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:38:15] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:38:15] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:38:20] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:38:20] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:38:20] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:38:25] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:38:25] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:38:25] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:38:30] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:38:30] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:38:30] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:38:35] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:38:35] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:38:35] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:38:40] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:38:40] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:38:40] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:38:45] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:38:45] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:38:45] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:38:50] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:38:50] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:38:50] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:38:55] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:38:55] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:38:55] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:39:00] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:39:00] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:39:00] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:39:05] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:39:05] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:39:05] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:39:10] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:39:10] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:39:10] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:39:15] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:39:15] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:39:15] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:39:20] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:39:20] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:39:20] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:39:25] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:39:25] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:39:25] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:39:30] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:39:30] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:39:30] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:39:35] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:39:35] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:39:35] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:39:40] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:39:40] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:39:40] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:39:45] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:39:45] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:39:45] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:39:50] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:39:50] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:39:50] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:39:55] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:39:55] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:39:55] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:40:00] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:40:00] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:40:00] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:40:05] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:40:05] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:40:05] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:40:10] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:40:10] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:40:10] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:40:15] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:40:15] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:40:15] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:40:20] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:40:20] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:40:20] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:40:25] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:40:25] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:40:25] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:40:30] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:40:30] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:40:30] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:40:35] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:40:35] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:40:35] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:40:40] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:40:40] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:40:40] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:40:45] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:40:45] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:40:45] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:40:50] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:40:50] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:40:50] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:40:55] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:40:55] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:40:55] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:41:00] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:41:00] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:41:00] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:41:05] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:41:05] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:41:05] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:41:10] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:41:10] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:41:10] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:41:15] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:41:15] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:41:15] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:41:20] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:41:20] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:41:20] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:41:25] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:41:25] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:41:25] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:41:30] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:41:30] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:41:30] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:41:35] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:41:35] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:41:35] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:41:40] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:41:40] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:41:40] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:41:45] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:41:45] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:41:45] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:41:50] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:41:50] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:41:50] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:41:55] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:41:55] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:41:55] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:42:00] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:42:00] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:42:00] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:42:05] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:42:05] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:42:05] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:42:10] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:42:10] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:42:10] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:42:15] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:42:15] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:42:15] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:42:20] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:42:20] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:42:20] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:42:25] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:42:25] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:42:25] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:42:30] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:42:30] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:42:30] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:42:35] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:42:35] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:42:35] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:42:40] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:42:40] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:42:40] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:42:45] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:42:45] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:42:45] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:42:50] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:42:50] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:42:50] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:42:55] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:42:55] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:42:55] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:43:00] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:43:00] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:43:00] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:43:05] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:43:05] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:43:05] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:43:10] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:43:10] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:43:10] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:43:15] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:43:15] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:43:15] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:43:20] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:43:20] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:43:20] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:43:25] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:43:25] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:43:25] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:43:30] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:43:30] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:43:30] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:43:35] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:43:35] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:43:35] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:43:40] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:43:40] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:43:40] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:43:45] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:43:45] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:43:45] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:43:50] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:43:50] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:43:50] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:43:55] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:43:55] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:43:55] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:44:00] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:44:00] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:44:00] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:44:05] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:44:05] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:44:05] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:44:10] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:44:10] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:44:10] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:44:15] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:44:15] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:44:15] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:44:20] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:44:20] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:44:20] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:44:25] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:44:25] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:44:25] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:44:30] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:44:30] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:44:30] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:44:35] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:44:35] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:44:35] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:44:40] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:44:40] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:44:40] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:44:45] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:44:45] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:44:45] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:44:50] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:44:50] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:44:50] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:44:55] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:44:55] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:44:55] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:45:00] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:45:00] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:45:00] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:45:05] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:45:05] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:45:05] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:45:10] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:45:10] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:45:10] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:45:15] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:45:15] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:45:15] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:45:20] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:45:20] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:45:20] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:45:25] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:45:25] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:45:25] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:45:30] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:45:30] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:45:30] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:45:35] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:45:35] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:45:35] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:45:40] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:45:40] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:45:40] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:45:45] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:45:45] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:45:45] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:45:50] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:45:50] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:45:50] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:45:55] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:45:55] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:45:55] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:46:00] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:46:00] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:46:00] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:46:05] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:46:05] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:46:05] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:46:10] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:46:10] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:46:10] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:46:15] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:46:15] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:46:15] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:46:20] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:46:20] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:46:20] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:46:25] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:46:25] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:46:25] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:46:30] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:46:30] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:46:30] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:46:35] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:46:35] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:46:35] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:46:40] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:46:40] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:46:40] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:46:45] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:46:45] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:46:45] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:46:50] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:46:50] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:46:50] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:46:55] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:46:55] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:46:55] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:47:00] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:47:00] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:47:00] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:47:05] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:47:05] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:47:05] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:47:10] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:47:10] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:47:10] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:47:15] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:47:15] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:47:15] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:47:20] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:47:20] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:47:20] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:47:25] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:47:25] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:47:25] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:47:30] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:47:30] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:47:30] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:47:35] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:47:35] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:47:36] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:47:41] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:47:41] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:47:41] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:47:46] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:47:46] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:47:46] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:47:51] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:47:51] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:47:51] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:47:56] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:47:56] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:47:56] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:48:01] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:48:01] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:48:01] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:48:06] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:48:06] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:48:06] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:48:11] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:48:11] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:48:11] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:48:16] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:48:16] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:48:16] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:48:21] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:48:21] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:48:21] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:48:26] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:48:26] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:48:26] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:48:31] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:48:31] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:48:31] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:48:36] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:48:36] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:48:36] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:48:41] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:48:41] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:48:41] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:48:46] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:48:46] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:48:46] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:48:51] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:48:51] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:48:51] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:48:56] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:48:56] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:48:56] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:49:01] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:49:01] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:49:01] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:49:06] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:49:06] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:49:06] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:49:11] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:49:11] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:49:11] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:49:16] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:49:16] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:49:16] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:49:21] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:49:21] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:49:21] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:50:22] :: GOB_CORE :: [INFO] :: Test Logger Initialized. Uplink to Grid Overwatch Bridge established.
+[2025-09-07 17:50:22] :: GOB_CORE :: [INFO] :: GOB Monitor starting...
+[2025-09-07 17:50:22] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:50:22] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:50:22] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:51:13] :: GOB_CORE :: [INFO] :: Test Logger Initialized. Uplink to Grid Overwatch Bridge established.
+[2025-09-07 17:51:13] :: GOB_CORE :: [INFO] :: GOB Monitor starting...
+[2025-09-07 17:51:13] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:51:13] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:51:13] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:51:18] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:51:18] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:51:18] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:51:23] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:51:23] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:51:23] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:51:28] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:51:28] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:51:28] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:51:33] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:51:33] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:51:33] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:51:38] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:51:38] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:51:38] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:51:43] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:51:43] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:51:43] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:51:48] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:51:48] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:51:48] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:52:14] :: GOB_CORE :: [INFO] :: Test Logger Initialized. Uplink to Grid Overwatch Bridge established.
+[2025-09-07 17:52:14] :: GOB_CORE :: [INFO] :: GOB Monitor starting...
+[2025-09-07 17:52:14] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:52:14] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:52:14] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:52:19] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:52:19] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:52:19] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:52:24] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:52:24] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:52:24] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:52:29] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:52:29] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:52:29] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:52:34] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:52:34] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:52:34] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:52:39] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:52:39] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:52:39] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:52:44] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:52:44] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:52:44] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:52:45] :: GOB_CORE :: [INFO] :: Test Logger Initialized. Uplink to Grid Overwatch Bridge established.
+[2025-09-07 17:52:45] :: GOB_CORE :: [INFO] :: GOB Monitor starting...
+[2025-09-07 17:52:45] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:52:45] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:52:45] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:52:49] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:52:49] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:52:49] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:52:54] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:52:54] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:52:54] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:54:39] :: GOB_CORE :: [INFO] :: Test Logger Initialized. Uplink to Grid Overwatch Bridge established.
+[2025-09-07 17:54:39] :: GOB_CORE :: [INFO] :: GOB Monitor script started. Logger is active.
+[2025-09-07 17:54:39] :: GOB_CORE :: [INFO] :: Logger assigned to GOBMonitor instance.
+[2025-09-07 17:54:39] :: GOB_CORE :: [INFO] :: Monitor will start in 3 seconds...
+[2025-09-07 17:54:42] :: GOB_CORE :: [INFO] :: Starting GOB Monitor main loop...
+[2025-09-07 17:54:42] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:54:42] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:54:42] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:54:47] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:54:47] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:54:47] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:54:52] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:54:52] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:54:52] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:54:57] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:54:57] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:54:57] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:55:02] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:55:02] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:55:02] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:55:07] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:55:07] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:55:07] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:55:12] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:55:12] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:55:12] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:55:17] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:55:17] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:55:17] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:55:22] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:55:22] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:55:22] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:55:27] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:55:27] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:55:27] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:55:32] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:55:32] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:55:32] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:55:37] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:55:37] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:55:37] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:55:42] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:55:42] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:55:42] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:55:47] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:55:47] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:55:47] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:55:52] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:55:52] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:55:52] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:55:57] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:55:57] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:55:57] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:56:02] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:56:02] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:56:02] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:56:07] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:56:07] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:56:07] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:56:12] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:56:12] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:56:12] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:56:17] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:56:17] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:56:17] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:56:22] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:56:22] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:56:22] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:56:27] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:56:27] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:56:27] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:56:32] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:56:32] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:56:32] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:56:37] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:56:37] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:56:37] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:56:42] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:56:42] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:56:42] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:56:47] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:56:47] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:56:47] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:56:52] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:56:52] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:56:52] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:56:57] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:56:57] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:56:57] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:57:02] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:57:02] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:57:02] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:57:07] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:57:07] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:57:07] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:57:12] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:57:12] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:57:12] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:57:17] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:57:17] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:57:17] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:57:22] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:57:22] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:57:22] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:57:27] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:57:27] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:57:27] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:57:32] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:57:32] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:57:32] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:57:37] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:57:37] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:57:37] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:57:42] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:57:42] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:57:42] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:57:47] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:57:47] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:57:47] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:57:52] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:57:52] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:57:52] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:57:57] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:57:57] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:57:57] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:58:02] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:58:02] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:58:02] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:58:07] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:58:07] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:58:07] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:58:12] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:58:12] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:58:12] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:58:17] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:58:17] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:58:17] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:58:22] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:58:22] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:58:22] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:58:27] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:58:27] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:58:27] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:58:32] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:58:32] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:58:32] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:58:37] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:58:37] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:58:37] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:58:42] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:58:42] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:58:42] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:58:47] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:58:47] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:58:47] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:58:52] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:58:52] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:58:52] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:58:57] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:58:57] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:58:57] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:59:02] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:59:02] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:59:02] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:59:07] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:59:07] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:59:07] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:59:12] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:59:12] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:59:12] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:59:17] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:59:17] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:59:17] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:59:22] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:59:22] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:59:22] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:59:27] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:59:27] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:59:27] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:59:32] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:59:32] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:59:32] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:59:37] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:59:37] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:59:37] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:59:42] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:59:42] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:59:42] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:59:47] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:59:47] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:59:47] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:59:52] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:59:52] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:59:52] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 17:59:57] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 17:59:57] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 17:59:57] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:00:02] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:00:02] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:00:02] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:00:07] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:00:07] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:00:07] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:00:12] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:00:12] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:00:12] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:00:17] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:00:17] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:00:17] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:00:22] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:00:22] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:00:22] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:00:27] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:00:27] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:00:27] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:00:32] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:00:32] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:00:32] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:00:37] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:00:37] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:00:37] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:00:42] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:00:42] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:00:42] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:00:47] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:00:47] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:00:47] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:00:52] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:00:52] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:00:52] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:00:57] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:00:57] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:00:57] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:01:02] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:01:02] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:01:02] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:01:07] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:01:07] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:01:07] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:01:12] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:01:12] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:01:12] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:01:17] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:01:17] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:01:17] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:01:22] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:01:22] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:01:22] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:01:27] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:01:27] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:01:27] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:01:32] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:01:32] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:01:32] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:01:37] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:01:37] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:01:37] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:01:42] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:01:42] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:01:42] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:01:47] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:01:47] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:01:47] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:01:52] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:01:52] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:01:52] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:01:57] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:01:57] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:01:57] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:02:02] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:02:02] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:02:02] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:02:07] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:02:07] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:02:07] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:02:12] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:02:12] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:02:12] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:02:17] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:02:17] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:02:17] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:02:22] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:02:22] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:02:22] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:02:27] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:02:27] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:02:27] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:02:32] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:02:32] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:02:32] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:02:37] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:02:37] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:02:37] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:02:42] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:02:42] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:02:42] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:02:47] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:02:47] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:02:47] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:02:52] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:02:52] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:02:52] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:02:57] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:02:57] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:02:57] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:03:02] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:03:02] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:03:02] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:03:07] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:03:07] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:03:07] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:03:12] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:03:12] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:03:12] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:03:17] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:03:17] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:03:17] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:03:22] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:03:22] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:03:22] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:03:27] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:03:27] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:03:27] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:03:32] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:03:32] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:03:32] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:03:37] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:03:37] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:03:37] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:03:42] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:03:42] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:03:42] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:03:47] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:03:47] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:03:47] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:03:52] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:03:52] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:03:52] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:03:57] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:03:57] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:03:57] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:04:02] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:04:02] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:04:02] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:04:07] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:04:07] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:04:07] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:04:12] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:04:12] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:04:12] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:04:17] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:04:17] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:04:17] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:04:22] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:04:22] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:04:22] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:04:27] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:04:27] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:04:27] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:04:32] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:04:32] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:04:32] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:04:37] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:04:37] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:04:37] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:04:42] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:04:42] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:04:42] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:04:47] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:04:47] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:04:47] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:04:52] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:04:52] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:04:52] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:04:57] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:04:57] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:04:57] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:05:02] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:05:02] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:05:02] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:05:07] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:05:07] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:05:07] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:05:12] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:05:12] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:05:12] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:05:17] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:05:17] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:05:17] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:05:22] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:05:22] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:05:22] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:05:27] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:05:27] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:05:27] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:05:32] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:05:32] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:05:32] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:05:37] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:05:37] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:05:37] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:05:42] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:05:42] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:05:42] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:05:47] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:05:47] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:05:47] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:05:52] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:05:52] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:05:52] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:05:57] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:05:57] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:05:57] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:06:02] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:06:02] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:06:02] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:06:07] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:06:07] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:06:07] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:06:12] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:06:12] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:06:12] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:06:17] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:06:17] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:06:18] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:06:23] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:06:23] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:06:23] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:06:28] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:06:28] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:06:28] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:06:33] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:06:33] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:06:33] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:06:38] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:06:38] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:06:38] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:06:43] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:06:43] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:06:43] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:06:48] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:06:48] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:06:48] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:06:53] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:06:53] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:06:53] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:06:58] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:06:58] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:06:58] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:07:03] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:07:03] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:07:03] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:07:08] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:07:08] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:07:08] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:07:13] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:07:13] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:07:13] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:07:18] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:07:18] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:07:18] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:07:23] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:07:23] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:07:23] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:07:28] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:07:28] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:07:28] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:07:33] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:07:33] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:07:33] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:07:38] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:07:38] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:07:38] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:07:43] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:07:43] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:07:43] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:07:48] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:07:48] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:07:48] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:07:53] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:07:53] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:07:53] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:07:58] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:07:58] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:07:58] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:08:03] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:08:03] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:08:03] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:08:08] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:08:08] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:08:08] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:08:13] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:08:13] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:08:13] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:08:18] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:08:18] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:08:18] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:08:23] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:08:23] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:08:23] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:08:28] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:08:28] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:08:28] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:08:33] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:08:33] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:08:33] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:08:38] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:08:38] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:08:38] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:08:43] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:08:43] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:08:43] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:08:48] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:08:48] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:08:48] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:08:53] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:08:53] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:08:53] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:08:58] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:08:58] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:08:58] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:09:03] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:09:03] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:09:03] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:09:08] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:09:08] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:09:08] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:09:13] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:09:13] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:09:13] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:09:18] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:09:18] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:09:18] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:09:23] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:09:23] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:09:23] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:09:28] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:09:28] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:09:28] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:09:33] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:09:33] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:09:33] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:09:38] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:09:38] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:09:38] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:09:43] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:09:43] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:09:43] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:09:48] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:09:48] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:09:48] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:09:53] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:09:53] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:09:53] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:09:58] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:09:58] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:09:58] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:10:03] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:10:03] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:10:03] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:10:08] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:10:08] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:10:08] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:10:13] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:10:13] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:10:13] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:10:18] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:10:18] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:10:18] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:10:23] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:10:23] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:10:23] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:10:28] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:10:28] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:10:28] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:10:33] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:10:33] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:10:33] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:10:38] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:10:38] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:10:38] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:10:43] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:10:43] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:10:43] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:10:48] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:10:48] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:10:48] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:10:53] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:10:53] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:10:53] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:10:58] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:10:58] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:10:58] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:11:03] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:11:03] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:11:03] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:11:08] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:11:08] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:11:08] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:11:13] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:11:13] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:11:13] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:11:18] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:11:18] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:11:18] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:11:23] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:11:23] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:11:23] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:11:28] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:11:28] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:11:28] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:11:33] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:11:33] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:11:33] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:11:38] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:11:38] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:11:38] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:11:43] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:11:43] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:11:43] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:11:48] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:11:48] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:11:48] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:11:53] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:11:53] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:11:53] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:11:58] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:11:58] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:11:58] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:12:03] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:12:03] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:12:03] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:12:08] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:12:08] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:12:08] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:12:13] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:12:13] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:12:13] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:12:18] :: GOB_CORE :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 18:12:18] :: GOB_CORE :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 18:12:18] :: GOB_CORE :: [DEBUG] :: Successfully fetched state data
+[2025-09-07 18:12:20] :: GOB_CORE :: [WARNING] :: Signal 15 received. Initiating graceful shutdown sequence.
+[2025-09-07 18:12:20] :: GOB_CORE :: [INFO] :: Shutting down HTTP server...
+[2025-09-07 18:12:20] :: GOB_CORE :: [INFO] :: State manager shutting down.
+[2025-09-07 18:12:20] :: GOB_CORE :: [INFO] :: Grid Overwatch Bridge offline.
+[2025-09-07 18:12:20] :: GOB_CORE :: [ERROR] :: A critical unhandled exception occurred in the main loop.
+Traceback (most recent call last):
+  File "/home/ds/sambashare/GOB/grid-overwatch-bridge/service.py", line 126, in main
+    logger.info("Starting health and state endpoint subroutine...")
+        ^^^^^^^^^^^^^
+  File "/home/ds/sambashare/GOB/grid-overwatch-bridge/service.py", line 101, in signal_handler
+    logger.warning(f"Signal {signum} received. Initiating graceful shutdown sequence.")
+    ^^^
+NameError: name 'sys' is not defined
+[2025-09-07 18:12:23] :: GOB_CORE :: [WARNING] :: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[2025-09-07 18:12:28] :: GOB_CORE :: [WARNING] :: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[2025-09-07 18:12:33] :: GOB_CORE :: [WARNING] :: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[2025-09-07 18:12:38] :: GOB_CORE :: [WARNING] :: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[2025-09-07 18:12:43] :: GOB_CORE :: [WARNING] :: Failed to fetch state: OFFLINE - [Errno 111] Connection refused
+[2025-09-07 18:12:48] :: GOB_CORE :: [WARNING] :: Failed to fetch state: OFFLINE - [Errno 111] Connection refused

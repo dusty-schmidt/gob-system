@@ -1,0 +1,48 @@
+/* /home/ds/sambashare/GOB/frontend/src/components/LogViewerPlugin.css */
+
+.log-content {
+  font-family: var(--font-family-code);
+  font-size: 0.85rem;
+  line-height: 1.6;
+  white-space: pre-wrap;
+  word-break: break-all;
+}
+
+.log-item {
+  margin-bottom: 0.5rem;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.log-timestamp {
+  color: #888;
+  flex-shrink: 0;
+}
+
+.log-heading {
+  font-weight: bold;
+  color: #a4a4a4;
+  flex-shrink: 0;
+}
+
+.log-content {
+  flex-grow: 1;
+}
+
+/* Example coloring for different log types */
+.log-type-user {
+  color: #00ff41;
+}
+
+.log-type-agent {
+  color: #80ffa1;
+}
+
+.log-type-error {
+  color: #e74c3c;
+  font-weight: bold;
+}
+
+.log-type-info {
+  color: #3498db;
+}
