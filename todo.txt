@@ -1,0 +1,6 @@
+#Small tasks
+
+-documents for gob system
+-sambashare on all computers (get necessary info while on mothership)
+-tailscale set up
+-device info documents

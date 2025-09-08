@@ -1,0 +1,119 @@
+#!/bin/bash
+
+# ==============================================================================
+# GOB Agentic System - Cyberpunk Update & Deploy Script
+# ==============================================================================
+# Adds randomized neon-noir log messages and terminal artifacts
+# while keeping core functionality unchanged.
+# ==============================================================================
+
+set -e
+
+PROJECT_ROOT="/home/ds/sambashare/GOB"
+AGENT_DIR="$PROJECT_ROOT/GOB-system"
+BACKUP_DIR="$PROJECT_ROOT/backups"
+LOG_DIR="$PROJECT_ROOT/work_logs"
+LOG_FILE="$LOG_DIR/work_log.md"
+
+# --- Helper: Randomized Log Generator ---
+cyber_log() {
+    local phrases=(
+        "[SYS-ALERT] Neural threads syncing with the Grid..."
+        "[OK] Reticulating splines through quantum mesh..."
+        "[BOOT] Ghosts in the machine are restless tonight..."
+        "[TRACE] Data-photons tunneling through neon pipelines..."
+        "[ECHO] █▓▒░ Injecting entropy into commit stream ░▒▓█"
+        "[FREQ] Oscillation stable. Uplink integrity at 99.97%"
+        "[GLITCH] //::Commit ritual engaged:://"
+        "[ARCHIVE] Shadows encrypted into cryo-storage..."
+        "[VOID] Writing echoes to the work-log of eternity..."
+        "[TRANSMIT] Firing code into the void of GitHub..."
+        "[BUILD] Docker foundries heating up. Steam rising..."
+        "[COMPLETE] Signal embedded into the sprawl. Done."
+    )
+    local rand=$((RANDOM % ${#phrases[@]}))
+    echo -e "\e[1;36m${phrases[$rand]}\e[0m"
+}
+
+divider() {
+    echo -e "\e[35m─────────────────────────────────────────────\e[0m"
+}
+
+# --- Step 1: Get Update Description ---
+divider
+cyber_log
+echo "Feed the machine an update description."
+read -p "> " UPDATE_DESCRIPTION
+
+if [ -z "$UPDATE_DESCRIPTION" ]; then
+    echo -e "\e[1;31m[FAIL] Update description empty. System aborting.\e[0m"
+    exit 1
+fi
+
+# --- Step 2: Ensure Directories Exist ---
+mkdir -p "$BACKUP_DIR" "$LOG_DIR"
+
+# --- Step 3: Create Local Backup ---
+divider
+cyber_log
+TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
+BACKUP_FILENAME="gob_backup_$TIMESTAMP.tar.gz"
+echo "Sealing snapshot into cold storage: $BACKUP_FILENAME"
+tar -czf "$BACKUP_DIR/$BACKUP_FILENAME" -C "$(dirname "$AGENT_DIR")" "$(basename "$AGENT_DIR")"
+cyber_log
+
+# --- Step 4: Save Work Log ---
+divider
+cyber_log
+echo "Etching update into work log at $LOG_FILE..."
+echo "### [$TIMESTAMP] - $UPDATE_DESCRIPTION" >> "$LOG_FILE"
+cyber_log
+
+# --- Step 5: Git Commit and Push ---
+divider
+cyber_log
+cd "$AGENT_DIR"
+
+echo "Staging mutations into local repository..."
+git add .
+
+if git diff-index --quiet HEAD --; then
+    echo -e "\e[33m[IDLE] No anomalies detected. Repo already synced.\e[0m"
+else
+    cyber_log
+    git commit -m "$UPDATE_DESCRIPTION"
+fi
+
+cyber_log
+echo "Flinging packets upstream into GitHub nebula..."
+git push -u origin main
+cyber_log
+
+# --- Step 6: Optional Docker Build ---
+divider
+cyber_log
+read -p "Spin up a fresh Docker image with these mutations? (y/n): " BUILD_CHOICE
+
+if [[ "${BUILD_CHOICE,,}" == "y" ]]; then
+    read -p "Tag this construct (default: gob-$(date +"%Y%m%d")): " IMAGE_TAG
+    IMAGE_TAG=${IMAGE_TAG:-"gob-$(date +"%Y%m%d")"}
+
+    cyber_log
+    echo "Forging Docker construct tagged as '$IMAGE_TAG'..."
+    docker build -f DockerfileLocal -t "$IMAGE_TAG" .
+
+    cyber_log
+    echo "Docker entity '$IMAGE_TAG' ready."
+    echo "Summon with:"
+    echo "docker run -d --name gob-agent-system -p 5000:80 --env-file $PROJECT_ROOT/.env $IMAGE_TAG"
+else
+    echo -e "\e[2;37m[SKIP] Docker build bypassed.\e[0m"
+fi
+
+# --- Done ---
+divider
+cyber_log
+echo -e "\e[1;32m[COMPLETE] Update cycle closed. Sprawl integrity maintained.\e[0m"
+divider
+
+cd - > /dev/null
