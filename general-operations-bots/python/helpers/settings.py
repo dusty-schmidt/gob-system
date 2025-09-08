@@ -172,7 +172,7 @@ def convert_out(settings: Settings) -> SettingsOutput:
         {
             "id": "chat_model_provider",
             "title": "Chat model provider",
-            "description": "Select provider for main chat model used by Agent Zero",
+            "description": "Select provider for main chat model used by GOB",
             "type": "select",
             "value": settings["chat_model_provider"],
             "options": cast(list[FieldOption], get_providers("chat")),
@@ -274,7 +274,7 @@ def convert_out(settings: Settings) -> SettingsOutput:
     chat_model_section: SettingsSection = {
         "id": "chat_model",
         "title": "Chat Model",
-        "description": "Selection and settings for main chat model used by Agent Zero",
+        "description": "Selection and settings for main chat model used by GOB",
         "fields": chat_model_fields,
         "tab": "agent",
     }
@@ -424,7 +424,7 @@ def convert_out(settings: Settings) -> SettingsOutput:
     embed_model_section: SettingsSection = {
         "id": "embed_model",
         "title": "Embedding Model",
-        "description": f"Settings for the embedding model used by Agent Zero.<br><h4>⚠️ No need to change</h4>The default HuggingFace model {default_settings['embed_model_name']} is preloaded and runs locally within the docker container and there's no need to change it unless you have a specific requirements for embedding.",
+        "description": f"Settings for the embedding model used by GOB.<br><h4>⚠️ No need to change</h4>The default HuggingFace model {default_settings['embed_model_name']} is preloaded and runs locally within the docker container and there's no need to change it unless you have a specific requirements for embedding.",
         "fields": embed_model_fields,
         "tab": "agent",
     }
@@ -524,7 +524,7 @@ def convert_out(settings: Settings) -> SettingsOutput:
     browser_model_section: SettingsSection = {
         "id": "browser_model",
         "title": "Web Browser Model",
-        "description": "Settings for the web browser model. Agent Zero uses <a href='https://github.com/browser-use/browser-use' target='_blank'>browser-use</a> agentic framework to handle web interactions.",
+        "description": "Settings for the web browser model. GOB uses <a href='https://github.com/browser-use/browser-use' target='_blank'>browser-use</a> agentic framework to handle web interactions.",
         "fields": browser_model_fields,
         "tab": "agent",
     }
@@ -570,7 +570,7 @@ def convert_out(settings: Settings) -> SettingsOutput:
     auth_section: SettingsSection = {
         "id": "auth",
         "title": "Authentication",
-        "description": "Settings for authentication to use Agent Zero Web UI.",
+        "description": "Settings for authentication to use GOB Web UI.",
         "fields": auth_fields,
         "tab": "external",
     }
@@ -593,7 +593,7 @@ def convert_out(settings: Settings) -> SettingsOutput:
     api_keys_section: SettingsSection = {
         "id": "api_keys",
         "title": "API Keys",
-        "description": "API keys for model providers and services used by Agent Zero. You can set multiple API keys separated by a comma (,). They will be used in round-robin fashion.",
+        "description": "API keys for model providers and services used by GOB. You can set multiple API keys separated by a comma (,). They will be used in round-robin fashion.",
         "fields": api_keys_fields,
         "tab": "external",
     }
@@ -680,7 +680,7 @@ def convert_out(settings: Settings) -> SettingsOutput:
         {
             "id": "memory_recall_enabled",
             "title": "Memory auto-recall enabled",
-            "description": "Agent Zero will automatically recall memories based on convesation context.",
+            "description": "GOB will automatically recall memories based on convesation context.",
             "type": "switch",
             "value": settings["memory_recall_enabled"],
         }
@@ -1092,7 +1092,7 @@ def convert_out(settings: Settings) -> SettingsOutput:
     mcp_client_section: SettingsSection = {
         "id": "mcp_client",
         "title": "External MCP Servers",
-        "description": "Agent Zero can use external MCP servers, local or remote as tools.",
+        "description": "GOB can use external MCP servers, local or remote as tools.",
         "fields": mcp_client_fields,
         "tab": "mcp",
     }
@@ -1138,7 +1138,7 @@ def convert_out(settings: Settings) -> SettingsOutput:
         {
             "id": "mcp_server_enabled",
             "title": "Enable A0 MCP Server",
-            "description": "Expose Agent Zero as an SSE/HTTP MCP server. This will make this A0 instance available to MCP clients.",
+            "description": "Expose GOB as an SSE/HTTP MCP server. This will make this A0 instance available to MCP clients.",
             "type": "switch",
             "value": settings["mcp_server_enabled"],
         }
@@ -1158,7 +1158,7 @@ def convert_out(settings: Settings) -> SettingsOutput:
     mcp_server_section: SettingsSection = {
         "id": "mcp_server",
         "title": "A0 MCP Server",
-        "description": "Agent Zero can be exposed as an SSE MCP server. See <a href=\"javascript:openModal('settings/mcp/server/example.html')\">connection example</a>.",
+        "description": "GOB can be exposed as an SSE MCP server. See <a href=\"javascript:openModal('settings/mcp/server/example.html')\">connection example</a>.",
         "fields": mcp_server_fields,
         "tab": "mcp",
     }
@@ -1170,7 +1170,7 @@ def convert_out(settings: Settings) -> SettingsOutput:
         {
             "id": "a2a_server_enabled",
             "title": "Enable A2A server",
-            "description": "Expose Agent Zero as A2A server. This allows other agents to connect to A0 via A2A protocol.",
+            "description": "Expose GOB as A2A server. This allows other agents to connect to A0 via A2A protocol.",
             "type": "switch",
             "value": settings["a2a_server_enabled"],
         }
@@ -1179,7 +1179,7 @@ def convert_out(settings: Settings) -> SettingsOutput:
     a2a_section: SettingsSection = {
         "id": "a2a_server",
         "title": "A0 A2A Server",
-        "description": "Agent Zero can be exposed as an A2A server. See <a href=\"javascript:openModal('settings/a2a/a2a-connection.html')\">connection example</a>.",
+        "description": "GOB can be exposed as an A2A server. See <a href=\"javascript:openModal('settings/a2a/a2a-connection.html')\">connection example</a>.",
         "fields": a2a_fields,
         "tab": "mcp",
     }
@@ -1192,7 +1192,7 @@ def convert_out(settings: Settings) -> SettingsOutput:
         {
             "id": "external_api_examples",
             "title": "API Examples",
-            "description": "View examples for using Agent Zero's external API endpoints with API key authentication.",
+            "description": "View examples for using GOB's external API endpoints with API key authentication.",
             "type": "button",
             "value": "Show API Examples",
         }
@@ -1201,7 +1201,7 @@ def convert_out(settings: Settings) -> SettingsOutput:
     external_api_section: SettingsSection = {
         "id": "external_api",
         "title": "External API",
-        "description": "Agent Zero provides external API endpoints for integration with other applications. "
+        "description": "GOB provides external API endpoints for integration with other applications. "
                        "These endpoints use API key authentication and support text messages and file attachments.",
         "fields": external_api_fields,
         "tab": "external",
@@ -1235,7 +1235,7 @@ def convert_out(settings: Settings) -> SettingsOutput:
     backup_section: SettingsSection = {
         "id": "backup_restore",
         "title": "Backup & Restore",
-        "description": "Backup and restore Agent Zero data and configurations "
+        "description": "Backup and restore GOB data and configurations "
         "using glob pattern-based file selection.",
         "fields": backup_fields,
         "tab": "backup",
@@ -1357,11 +1357,11 @@ def normalize_settings(settings: Settings) -> Settings:
 
 
 def _adjust_to_version(settings: Settings, default: Settings):
-    # starting with 0.9, the default prompt subfolder for agent no. 0 is agent0
-    # switch to agent0 if the old default is used from v0.8
+    # starting with 0.9, the default prompt subfolder for agent no. 0 is gob0
+    # switch to gob0 if the old default is used from v0.8
     if "version" not in settings or settings["version"].startswith("v0.8"):
         if "agent_profile" not in settings or settings["agent_profile"] == "default":
-            settings["agent_profile"] = "agent0"
+            settings["agent_profile"] = "gob0"
 
 
 def _read_settings_file() -> Settings | None:
@@ -1469,7 +1469,7 @@ def get_default_settings() -> Settings:
         auth_login="",
         auth_password="",
         root_password="",
-        agent_profile="agent0",
+        agent_profile="gob0",
         agent_memory_subdir="default",
         agent_knowledge_subdir="custom",
         rfc_auto_docker=True,
@@ -1506,7 +1506,7 @@ def _apply_settings(previous: Settings | None):
         for ctx in AgentContext._contexts.values():
             ctx.config = config  # reinitialize context config with new settings
             # apply config to agents
-            agent = ctx.agent0
+            agent = ctx.gob0
             while agent:
                 agent.config = ctx.config
                 agent = agent.get_data(agent.DATA_NAME_SUBORDINATE)

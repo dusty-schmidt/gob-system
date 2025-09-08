@@ -47,14 +47,14 @@ class ApiFilesGet(ApiHandler):
             for path in paths:
                 try:
                     # Convert internal paths to external paths
-                    if path.startswith("/a0/tmp/uploads/"):
+                    if path.startswith("/gob/tmp/uploads/"):
                         # Internal path - convert to external
-                        filename = path.replace("/a0/tmp/uploads/", "")
+                        filename = path.replace("/gob/tmp/uploads/", "")
                         external_path = files.get_abs_path("tmp/uploads", filename)
                         filename = os.path.basename(external_path)
-                    elif path.startswith("/a0/"):
-                        # Other internal Agent Zero paths
-                        relative_path = path.replace("/a0/", "")
+                    elif path.startswith("/gob/"):
+                        # Other internal GOB paths
+                        relative_path = path.replace("/gob/", "")
                         external_path = files.get_abs_path(relative_path)
                         filename = os.path.basename(external_path)
                     else:

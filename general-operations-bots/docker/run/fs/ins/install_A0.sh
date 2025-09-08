@@ -20,7 +20,7 @@ if [ "$BRANCH" = "local" ]; then
 else
     # For other branches, clone from GitHub
     echo "Cloning repository from branch $BRANCH..."
-    git clone -b "$BRANCH" "https://github.com/agent0ai/gob" "/git/gob" || {
+    git clone -b "$BRANCH" "https://github.com/gobai/gob" "/git/gob" || {
         echo "CRITICAL ERROR: Failed to clone repository. Branch: $BRANCH"
         exit 1
     }

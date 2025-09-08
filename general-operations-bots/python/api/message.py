@@ -29,7 +29,7 @@ class Message(ApiHandler):
             attachments = request.files.getlist("attachments")
             attachment_paths = []
 
-            upload_folder_int = "/a0/tmp/uploads"
+            upload_folder_int = "/gob/tmp/uploads"
             upload_folder_ext = files.get_abs_path("tmp/uploads") # for development environment
 
             if attachments:
@@ -56,7 +56,7 @@ class Message(ApiHandler):
         context = self.get_context(ctxid)
 
         # Store attachments in agent data
-        # context.agent0.set_data("attachments", attachment_paths)
+        # context.gob0.set_data("attachments", attachment_paths)
 
         # Prepare attachment filenames for logging
         attachment_filenames = (

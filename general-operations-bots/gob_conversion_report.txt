@@ -1,0 +1,226 @@
+
+Agent-Zero to GOB Conversion Report
+==================================
+
+Summary:
+- Total files scanned: 897
+- Files modified: 57
+- Dry run: False
+
+Modified Files:
+
+README.md:
+  - Replaced 'Agent Zero' -> 'GOB' (11 times)
+  - Replaced 'agent-zero' -> 'gob' (9 times)
+  - Replaced 'AgentZero' -> 'GOB' (2 times)
+  - Replaced 'agent0ai' -> 'gobai' (6 times)
+  - Replaced 'Agent0ai' -> 'GOBai' (1 times)
+
+analyze_dependencies.py:
+  - Replaced 'agent-zero' -> 'gob' (1 times)
+  - Replaced 'Agent-Zero' -> 'GOB' (3 times)
+  - Replaced 'AgentZero' -> 'GOB' (1 times)
+  - Replaced 'AGENT-ZERO' -> 'GOB' (1 times)
+  - Replaced '/a0' -> '/gob' (2 times)
+  - Replaced '\a0' -> '\gob' (2 times)
+  - Replaced 'agent0ai' -> 'gobai' (1 times)
+
+dependency_analysis.json:
+  - Replaced 'Agent Zero' -> 'GOB' (106 times)
+  - Replaced 'agent-zero' -> 'gob' (1156 times)
+  - Replaced 'Agent-Zero' -> 'GOB' (132 times)
+  - Replaced 'agentzero' -> 'gob' (12 times)
+  - Replaced 'AgentZero' -> 'GOB' (160 times)
+  - Replaced 'AGENT_ZERO' -> 'GOB' (12 times)
+  - Replaced 'AGENT-ZERO' -> 'GOB' (24 times)
+  - Replaced '/a0/' -> '/gob/' (136 times)
+  - Replaced '/a0' -> '/gob' (82 times)
+  - Replaced '\a0\' -> '\gob\' (4 times)
+  - Replaced '\a0' -> '\gob' (2 times)
+  - Replaced 'agent0ai' -> 'gobai' (476 times)
+  - Replaced 'Agent0ai' -> 'GOBai' (36 times)
+  - Replaced 'agent0' -> 'gob0' (10 times)
+
+conf/model_providers.yaml:
+  - Replaced 'Agent Zero' -> 'GOB' (2 times)
+  - Replaced 'agent-zero' -> 'gob' (1 times)
+
+python/helpers/task_scheduler.py:
+  - Replaced 'agent0' -> 'gob0' (1 times)
+
+python/helpers/fasta2a_server.py:
+  - Replaced 'Agent Zero' -> 'GOB' (9 times)
+  - Replaced 'agent-zero' -> 'gob' (1 times)
+  - Replaced 'AgentZero' -> 'GOB' (2 times)
+
+python/helpers/files.py:
+  - Replaced '/a0/' -> '/gob/' (3 times)
+
+python/helpers/persist_chat.py:
+  - Replaced 'agent0' -> 'gob0' (7 times)
+
+python/helpers/backup.py:
+  - Replaced 'agent zero' -> 'GOB' (6 times)
+  - Replaced 'Agent Zero' -> 'GOB' (10 times)
+  - Replaced 'agent-zero' -> 'gob' (2 times)
+  - Replaced '/a0/' -> '/gob/' (2 times)
+
+python/helpers/fasta2a_client.py:
+  - Replaced 'Agent Zero' -> 'GOB' (1 times)
+
+python/helpers/settings.py:
+  - Replaced 'Agent Zero' -> 'GOB' (15 times)
+  - Replaced 'agent0' -> 'gob0' (5 times)
+
+python/helpers/mcp_server.py:
+  - Replaced 'Agent Zero' -> 'GOB' (16 times)
+
+python/helpers/api.py:
+  - Replaced 'agent zero' -> 'GOB' (1 times)
+
+python/helpers/docker.py:
+  - Replaced '/a0' -> '/gob' (1 times)
+
+python/api/import_knowledge.py:
+  - Replaced 'agent0' -> 'gob0' (2 times)
+
+python/api/api_message.py:
+  - Replaced '/a0/' -> '/gob/' (1 times)
+
+python/api/history_get.py:
+  - Replaced 'agent0' -> 'gob0' (1 times)
+
+python/api/api_files_get.py:
+  - Replaced 'Agent Zero' -> 'GOB' (1 times)
+  - Replaced '/a0/' -> '/gob/' (4 times)
+
+python/api/message.py:
+  - Replaced '/a0/' -> '/gob/' (1 times)
+  - Replaced 'agent0' -> 'gob0' (1 times)
+
+python/api/ctx_window_get.py:
+  - Replaced 'agent0' -> 'gob0' (1 times)
+
+python/api/backup_create.py:
+  - Replaced 'agent-zero' -> 'gob' (1 times)
+
+tests/test_fasta2a_client.py:
+  - Replaced 'Agent Zero' -> 'GOB' (5 times)
+
+instruments/default/yt_download/yt_download.sh:
+  - Replaced '/a0/' -> '/gob/' (1 times)
+
+instruments/default/yt_download/yt_download.md:
+  - Replaced '/a0/' -> '/gob/' (1 times)
+
+docker/base/build.txt:
+  - Replaced 'agent-zero' -> 'gob' (4 times)
+  - Replaced 'agent0ai' -> 'gobai' (2 times)
+
+docker/run/build.txt:
+  - Replaced 'agent-zero' -> 'gob' (9 times)
+  - Replaced 'agent0ai' -> 'gobai' (4 times)
+
+docker/run/docker-compose.yml:
+  - Replaced 'agent-zero' -> 'gob' (4 times)
+  - Replaced '/a0' -> '/gob' (1 times)
+  - Replaced 'agent0ai' -> 'gobai' (1 times)
+
+docker/run/fs/ins/install_A0.sh:
+  - Replaced 'agent0ai' -> 'gobai' (1 times)
+
+docker/run/fs/ins/install_playwright.sh:
+  - Replaced '/a0/' -> '/gob/' (2 times)
+
+docker/run/fs/exe/run_tunnel_api.sh:
+  - Replaced '/a0/' -> '/gob/' (3 times)
+
+knowledge/default/main/about/installation.md:
+  - Replaced 'agent zero' -> 'GOB' (3 times)
+  - Replaced 'Agent Zero' -> 'GOB' (57 times)
+  - Replaced 'agent-zero' -> 'gob' (23 times)
+  - Replaced '/a0' -> '/gob' (4 times)
+  - Replaced 'agent0ai' -> 'gobai' (12 times)
+
+knowledge/default/main/about/github_readme.md:
+  - Replaced 'Agent Zero' -> 'GOB' (14 times)
+  - Replaced 'agent-zero' -> 'gob' (8 times)
+  - Replaced 'agent0ai' -> 'gobai' (2 times)
+
+prompts/agent.system.main.md:
+  - Replaced 'Agent Zero' -> 'GOB' (1 times)
+
+prompts/memory.keyword_extraction.sys.md:
+  - Replaced 'Agent Zero' -> 'GOB' (1 times)
+
+prompts/agent.system.main.environment.md:
+  - Replaced 'agent zero' -> 'GOB' (1 times)
+  - Replaced '/a0' -> '/gob' (1 times)
+
+prompts/agent.system.tool.call_sub.py:
+  - Replaced 'Agent-Zero' -> 'GOB' (1 times)
+
+prompts/agent.system.main.communication_additions.md:
+  - Replaced '/a0/' -> '/gob/' (1 times)
+
+prompts/agent.system.tool.browser.md:
+  - Replaced '/a0/' -> '/gob/' (1 times)
+
+prompts/memory.consolidation.sys.md:
+  - Replaced 'Agent Zero' -> 'GOB' (1 times)
+
+prompts/agent.system.main.role.md:
+  - Replaced 'agent zero' -> 'GOB' (1 times)
+
+prompts/agent.system.tool.a2a_chat.md:
+  - Replaced 'Agent Zero' -> 'GOB' (1 times)
+
+prompts/agent.system.tool.scheduler.md:
+  - Replaced 'agent-zero' -> 'gob' (1 times)
+
+webui/index.html:
+  - Replaced 'agent-zero' -> 'gob' (1 times)
+  - Replaced 'agent0ai' -> 'gobai' (1 times)
+
+webui/components/settings/external/api-examples.html:
+  - Replaced '/a0/' -> '/gob/' (4 times)
+
+webui/components/settings/backup/backup-store.js:
+  - Replaced 'agent-zero' -> 'gob' (2 times)
+
+webui/components/settings/backup/restore.html:
+  - Replaced 'Agent-Zero' -> 'GOB' (1 times)
+
+webui/components/settings/mcp/server/example.html:
+  - Replaced 'agent-zero' -> 'gob' (2 times)
+
+webui/components/chat/attachments/attachmentsStore.js:
+  - Replaced '/a0/' -> '/gob/' (2 times)
+
+agents/researcher/prompts/agent.system.main.communication.md:
+  - Replaced 'Agent Zero' -> 'GOB' (2 times)
+
+agents/researcher/prompts/agent.system.main.role.md:
+  - Replaced 'Agent Zero' -> 'GOB' (2 times)
+
+agents/hacker/prompts/agent.system.main.environment.md:
+  - Replaced 'agent zero' -> 'GOB' (1 times)
+  - Replaced '/a0' -> '/gob' (1 times)
+
+agents/hacker/prompts/agent.system.main.role.md:
+  - Replaced 'agent zero' -> 'GOB' (1 times)
+
+agents/developer/prompts/agent.system.main.communication.md:
+  - Replaced 'Agent Zero' -> 'GOB' (2 times)
+
+agents/developer/prompts/agent.system.main.role.md:
+  - Replaced 'Agent Zero' -> 'GOB' (2 times)
+
+agents/agent0/prompts/agent.system.main.role.md:
+  - Replaced 'agent zero' -> 'GOB' (1 times)
+
+agents/_example/extensions/agent_init/_10_example_extension.py:
+  - Replaced 'Agent0' -> 'GOB0' (1 times)
+
+agents/_example/prompts/agent.system.main.role.md:
+  - Replaced 'Agent Zero' -> 'GOB' (2 times)

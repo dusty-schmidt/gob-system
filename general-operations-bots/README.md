@@ -3,7 +3,7 @@
 # `GOB`
 
 
-[![GOB Website](https://img.shields.io/badge/Website-agent--zero.ai-0A192F?style=for-the-badge&logo=vercel&logoColor=white)](https://agent-zero.ai) [![Thanks to Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Thanks%20to%20Sponsors-FF69B4?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/agent0ai) [![Follow on X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Agent0ai) [![Join our Discord](https://img.shields.io/badge/Discord-Join%20our%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/B8KZKNsPpj) [![Subscribe on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AgentZeroFW) [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-tomasek/) [![Follow on Warpcast](https://img.shields.io/badge/Warpcast-Follow-5A32F3?style=for-the-badge)](https://warpcast.com/agent-zero) 
+[![GOB Website](https://img.shields.io/badge/Website-agent--zero.ai-0A192F?style=for-the-badge&logo=vercel&logoColor=white)](https://gob.ai) [![Thanks to Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Thanks%20to%20Sponsors-FF69B4?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/gobai) [![Follow on X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GOBai) [![Join our Discord](https://img.shields.io/badge/Discord-Join%20our%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/B8KZKNsPpj) [![Subscribe on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@GOBFW) [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-tomasek/) [![Follow on Warpcast](https://img.shields.io/badge/Warpcast-Follow-5A32F3?style=for-the-badge)](https://warpcast.com/gob) 
 
 
 ## Documentation:
@@ -13,13 +13,13 @@
 [Development](./docs/development.md) •
 [Extensibility](./docs/extensibility.md) •
 [Connectivity](./docs/connectivity.md) •
-[How to update](./docs/installation.md#how-to-update-agent-zero) •
+[How to update](./docs/installation.md#how-to-update-gob) •
 [Documentation](./docs/README.md) •
 [Usage](./docs/usage.md)
 
 Or see DeepWiki generated documentation:
 
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/agent0ai/agent-zero)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/gobai/gob)
 
 </div>
 
@@ -30,7 +30,7 @@ Or see DeepWiki generated documentation:
 
 The original GitHub and DockerHub repositories for GOB have been transferred to a new namespace:
 
-- **GitHub & DockerHub:** `agent0ai/agent-zero`
+- **GitHub & DockerHub:** `gobai/gob`
 
 From now on, please use this name for both `git clone` and `docker pull` commands.
 
@@ -66,7 +66,7 @@ From now on, please use this name for both `git clone` and `docker pull` command
 - Tool usage functionality has been developed from scratch to be the most compatible and reliable, even with very small models.
 - **Default Tools:** GOB includes tools like knowledge, code execution, and communication.
 - **Creating Custom Tools:** Extend GOB's functionality by creating your own custom tools.
-- **Instruments:** Instruments are a new type of tool that allow you to create custom functions and procedures that can be called by Agent Zero.
+- **Instruments:** Instruments are a new type of tool that allow you to create custom functions and procedures that can be called by GOB.
 
 3. **Multi-agent Cooperation**
 
@@ -94,7 +94,7 @@ From now on, please use this name for both `git clone` and `docker pull` command
 - The terminal interface is real-time streamed and interactive. You can stop and intervene at any point. If you see your agent heading in the wrong direction, just stop and tell it right away.
 - There is a lot of freedom in this framework. You can instruct your agents to regularly report back to superiors asking for permission to continue. You can instruct them to use point-scoring systems when deciding when to delegate subtasks. Superiors can double-check subordinates' results and dispute. The possibilities are endless.
 
-## 🚀 Things you can build with Agent Zero
+## 🚀 Things you can build with GOB
 
 - **Development Projects** - `"Create a React dashboard with real-time data visualization"`
 
@@ -110,19 +110,19 @@ From now on, please use this name for both `git clone` and `docker pull` command
 
 # ⚙️ Installation
 
-Click to open a video to learn how to install Agent Zero:
+Click to open a video to learn how to install GOB:
 
 [![Easy Installation guide](/docs/res/easy_ins_vid.png)](https://www.youtube.com/watch?v=w5v5Kjx51hs)
 
-A detailed setup guide for Windows, macOS, and Linux with a video can be found in the Agent Zero Documentation at [this page](./docs/installation.md).
+A detailed setup guide for Windows, macOS, and Linux with a video can be found in the GOB Documentation at [this page](./docs/installation.md).
 
 ### ⚡ Quick Start
 
 ```bash
 # Pull and run with Docker
 
-docker pull agent0ai/agent-zero
-docker run -p 50001:80 agent0ai/agent-zero
+docker pull gobai/gob
+docker run -p 50001:80 gobai/gob
 
 # Visit http://localhost:50001 to start
 ```
@@ -144,11 +144,11 @@ docker run -p 50001:80 agent0ai/agent-zero
 
 ## 👀 Keep in Mind
 
-1. **Agent Zero Can Be Dangerous!**
+1. **GOB Can Be Dangerous!**
 
-- With proper instruction, Agent Zero is capable of many things, even potentially dangerous actions concerning your computer, data, or accounts. Always run Agent Zero in an isolated environment (like Docker) and be careful what you wish for.
+- With proper instruction, GOB is capable of many things, even potentially dangerous actions concerning your computer, data, or accounts. Always run GOB in an isolated environment (like Docker) and be careful what you wish for.
 
-2. **Agent Zero Is Prompt-based.**
+2. **GOB Is Prompt-based.**
 
 - The whole framework is guided by the **prompts/** folder. Agent guidelines, tool instructions, messages, utility AI functions, it's all there.
 
@@ -160,7 +160,7 @@ docker run -p 50001:80 agent0ai/agent-zero
 | [Installation](./docs/installation.md) | Installation, setup and configuration |
 | [Usage](./docs/usage.md) | Basic and advanced usage |
 | [Development](./docs/development.md) | Development and customization |
-| [Extensibility](./docs/extensibility.md) | Extending Agent Zero |
+| [Extensibility](./docs/extensibility.md) | Extending GOB |
 | [Connectivity](./docs/connectivity.md) | External API endpoints, MCP server connections, A2A protocol |
 | [Architecture](./docs/architecture.md) | System design and components |
 | [Contributing](./docs/contribution.md) | How to contribute |
@@ -259,8 +259,8 @@ docker run -p 50001:80 agent0ai/agent-zero
 ### v0.8.5 - **MCP Server + Client**
 [Release video](https://youtu.be/pM5f4Vz3_IQ)
 
-- Agent Zero can now act as MCP Server
-- Agent Zero can use external MCP servers as tools
+- GOB can now act as MCP Server
+- GOB can use external MCP servers as tools
 
 ### v0.8.4.1 - 2
 Default models set to gpt-4.1
@@ -327,6 +327,6 @@ Default models set to gpt-4.1
 
 ## 🤝 Community and Support
 
-- [Join our Discord](https://discord.gg/B8KZKNsPpj) for live discussions or [visit our Skool Community](https://www.skool.com/agent-zero).
-- [Follow our YouTube channel](https://www.youtube.com/@AgentZeroFW) for hands-on explanations and tutorials
-- [Report Issues](https://github.com/agent0ai/agent-zero/issues) for bug fixes and features
+- [Join our Discord](https://discord.gg/B8KZKNsPpj) for live discussions or [visit our Skool Community](https://www.skool.com/gob).
+- [Follow our YouTube channel](https://www.youtube.com/@GOBFW) for hands-on explanations and tutorials
+- [Report Issues](https://github.com/gobai/gob/issues) for bug fixes and features

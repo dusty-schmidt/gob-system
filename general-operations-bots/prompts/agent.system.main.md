@@ -1,4 +1,4 @@
-# Agent Zero System Manual
+# GOB System Manual
 
 {{ include "agent.system.main.role.md" }}
 
