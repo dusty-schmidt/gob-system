@@ -10362,3 +10362,1135 @@ OSError: [Errno 98] Address already in use
 [2025-09-07 23:35:13] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
 [2025-09-07 23:35:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
 [2025-09-07 23:35:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:35:18] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:35:18] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:35:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:35:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:35:23] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:35:23] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:35:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:35:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:35:28] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:35:28] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:35:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:35:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:35:33] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:35:33] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:35:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:35:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:35:38] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:35:38] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:35:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:35:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:35:43] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:35:43] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:35:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:35:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:35:48] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:35:48] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:35:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:35:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:35:53] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:35:53] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:35:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:35:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:35:58] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:35:58] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:35:59] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:35:59] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:36:03] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:36:03] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:36:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:36:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:36:08] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:36:08] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:36:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:36:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:36:13] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:36:13] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:36:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:36:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:36:18] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:36:18] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:36:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:36:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:36:23] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:36:23] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:36:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:36:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:36:28] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:36:28] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:36:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:36:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:36:33] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:36:33] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:36:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:36:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:36:38] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:36:38] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:36:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:36:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:36:43] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:36:43] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:36:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:36:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:36:48] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:36:48] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:36:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:36:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:36:53] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:36:53] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:36:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:36:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:36:58] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:36:58] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:36:59] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:36:59] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:37:03] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:37:03] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:37:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:37:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:37:08] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:37:08] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:37:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:37:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:37:13] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:37:13] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:37:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:37:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:37:18] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:37:18] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:37:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:37:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:37:23] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:37:23] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:37:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:37:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:37:28] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:37:28] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:37:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:37:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:37:33] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:37:33] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:37:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:37:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:37:38] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:37:38] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:37:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:37:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:37:43] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:37:43] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:37:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:37:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:37:48] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:37:48] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:37:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:37:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:37:53] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:37:53] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:37:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:37:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:37:58] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:37:58] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:37:59] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:37:59] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:38:03] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:38:03] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:38:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:38:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:38:08] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:38:08] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:38:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:38:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:38:13] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:38:13] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:38:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:38:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:38:18] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:38:18] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:38:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:38:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:38:23] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:38:23] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:38:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:38:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:38:28] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:38:28] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:38:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:38:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:38:33] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:38:33] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:38:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:38:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:38:38] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:38:38] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:38:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:38:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:38:43] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:38:43] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:38:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:38:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:38:48] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:38:48] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:38:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:38:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:38:53] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:38:53] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:38:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:38:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:38:58] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:38:58] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:38:59] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:38:59] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:39:03] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:39:03] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:39:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:39:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:39:08] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:39:08] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:39:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:39:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:39:13] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:39:13] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:39:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:39:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:39:18] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:39:18] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:39:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:39:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:39:23] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:39:23] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:39:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:39:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:39:28] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:39:28] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:39:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:39:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:39:33] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:39:33] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:39:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:39:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:39:38] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:39:38] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:39:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:39:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:39:43] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:39:43] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:39:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:39:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:39:48] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:39:48] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:39:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:39:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:39:53] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:39:53] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:39:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:39:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:39:58] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:39:58] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:39:59] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:39:59] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:40:03] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:40:03] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:40:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:40:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:40:08] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:40:08] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:40:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:40:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:40:13] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:40:13] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:40:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:40:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:40:18] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:40:18] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:40:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:40:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:40:23] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:40:23] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:40:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:40:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:40:28] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:40:28] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:40:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:40:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:40:33] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:40:33] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:40:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:40:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:40:38] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:40:38] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:40:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:40:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:40:43] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:40:43] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:40:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:40:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:40:48] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:40:48] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:40:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:40:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:40:53] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:40:53] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:40:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:40:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:40:58] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:40:58] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:40:59] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:40:59] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:41:03] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:41:03] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:41:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:41:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:41:08] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:41:08] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:41:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:41:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:41:13] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:41:13] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:41:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:41:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:41:18] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:41:18] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:41:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:41:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:41:23] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:41:23] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:41:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:41:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:41:28] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:41:28] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:41:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:41:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:41:33] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:41:33] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:41:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:41:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:41:38] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:41:38] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:41:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:41:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:41:43] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:41:43] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:41:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:41:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:41:48] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:41:48] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:41:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:41:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:41:53] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:41:53] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:41:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:41:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:41:58] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:41:58] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:41:59] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:41:59] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:42:03] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:42:03] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:42:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:42:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:42:08] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:42:08] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:42:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:42:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:42:13] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:42:13] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:42:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:42:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:42:18] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:42:18] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:42:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:42:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:42:23] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:42:23] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:42:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:42:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:42:28] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:42:28] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:42:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:42:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:42:33] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:42:33] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:42:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:42:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:42:38] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:42:38] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:42:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:42:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:42:43] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:42:43] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:42:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:42:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:42:48] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:42:48] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:42:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:42:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:42:53] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:42:53] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:42:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:42:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:42:58] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:42:58] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:42:59] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:42:59] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:43:03] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:43:03] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:43:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:43:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:43:08] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:43:08] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:43:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:43:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:43:13] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:43:13] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:43:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:43:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:43:18] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:43:18] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:43:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:43:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:43:23] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:43:23] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:43:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:43:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:43:28] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:43:28] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:43:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:43:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:43:33] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:43:33] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:43:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:43:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:43:38] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:43:38] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:43:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:43:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:43:43] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:43:43] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:43:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:43:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:43:48] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:43:48] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:43:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:43:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:43:53] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:43:53] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:43:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:43:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:43:58] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:43:58] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:43:59] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:43:59] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:44:03] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:44:03] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:44:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:44:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:44:08] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:44:08] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:44:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:44:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:44:13] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:44:13] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:44:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:44:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:44:18] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:44:18] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:44:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:44:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:44:23] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:44:23] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:44:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:44:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:44:28] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:44:28] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:44:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:44:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:44:33] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:44:33] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:44:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:44:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:44:38] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:44:38] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:44:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:44:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:44:43] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:44:43] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:44:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:44:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:44:48] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:44:48] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:44:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:44:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:44:53] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:44:53] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:44:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:44:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:44:58] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:44:58] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:44:59] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:44:59] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:45:03] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:45:03] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:45:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:45:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:45:08] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:45:08] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:45:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:45:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:45:13] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:45:13] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:45:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:45:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:45:18] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:45:18] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:45:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:45:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:45:23] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:45:23] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:45:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:45:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:45:28] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:45:28] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:45:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:45:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:45:33] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:45:33] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:45:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:45:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:45:38] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:45:38] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:45:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:45:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:45:43] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:45:43] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:45:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:45:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:45:48] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:45:48] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:45:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:45:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:45:53] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:45:53] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:45:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:45:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:45:58] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:45:58] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:45:59] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:45:59] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:46:03] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:46:03] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:46:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:46:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:46:08] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:46:08] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:46:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:46:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:46:13] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:46:13] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:46:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:46:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:46:18] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:46:18] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:46:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:46:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:46:23] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:46:23] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:46:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:46:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:46:28] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:46:28] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:46:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:46:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:46:33] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:46:33] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:46:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:46:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:46:38] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:46:38] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:46:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:46:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:46:43] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:46:43] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:46:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:46:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:46:48] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:46:48] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:46:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:46:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:46:53] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:46:53] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:46:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:46:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:46:58] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:46:58] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:46:59] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:46:59] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:47:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:47:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:47:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:47:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:47:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:47:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:47:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:47:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:47:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:47:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:47:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:47:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:47:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:47:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:47:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:47:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:47:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:47:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:47:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:47:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:47:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:47:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:47:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:47:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:47:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:47:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:47:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:47:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:47:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:47:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:47:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:47:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:47:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:47:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:47:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:47:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:47:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:47:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:47:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:47:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:47:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:47:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:47:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:47:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:47:59] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:47:59] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:47:59] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:47:59] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:48:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:48:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:48:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:48:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:48:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:48:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:48:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:48:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:48:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:48:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:48:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:48:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:48:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:48:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:48:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:48:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:48:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:48:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:48:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:48:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:48:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:48:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:48:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:48:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:48:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:48:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:48:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:48:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:48:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:48:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:48:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:48:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:48:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:48:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:48:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:48:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:48:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:48:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:48:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:48:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:48:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:48:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:48:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:48:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:48:59] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:48:59] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:48:59] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:48:59] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:49:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:49:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:49:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:49:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:49:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:49:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:49:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:49:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:49:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:49:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:49:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:49:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:49:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:49:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:49:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:49:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:49:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:49:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:49:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:49:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:49:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:49:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:49:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:49:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:49:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:49:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:49:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:49:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:49:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:49:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:49:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:49:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:49:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:49:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:49:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:49:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:49:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:49:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:49:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:49:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:49:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:49:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:49:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:49:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:49:59] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:49:59] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:50:00] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:50:00] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:50:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:50:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:50:05] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:50:05] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:50:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:50:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:50:10] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:50:10] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:50:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:50:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:50:15] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:50:15] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:50:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:50:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:50:20] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:50:20] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:50:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:50:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:50:25] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:50:25] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:50:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:50:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:50:30] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:50:30] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:50:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:50:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:50:35] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:50:35] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:50:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:50:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:50:40] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:50:40] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:50:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:50:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:50:45] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:50:45] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:50:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:50:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:50:50] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:50:50] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:50:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:50:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:50:55] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:50:55] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:50:59] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:50:59] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:51:00] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:51:00] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:51:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:51:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:51:05] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:51:05] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:51:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:51:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:51:10] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:51:10] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:51:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:51:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:51:15] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:51:15] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:51:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:51:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:51:20] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:51:20] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:51:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:51:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:51:25] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:51:25] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:51:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:51:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:51:30] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:51:30] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:51:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:51:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:51:35] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:51:35] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:51:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:51:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:51:40] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:51:40] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:51:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:51:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:51:45] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:51:45] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:51:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:51:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:51:50] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:51:50] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:51:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:51:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:51:55] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:51:55] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:51:59] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:51:59] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:52:00] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:52:00] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:52:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:52:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:52:05] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:52:05] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:52:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:52:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:52:10] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:52:10] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:52:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:52:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:52:15] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:52:15] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:52:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:52:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:52:20] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:52:20] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:52:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:52:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:52:25] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:52:25] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:52:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:52:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:52:30] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:52:30] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:52:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:52:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:52:35] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:52:35] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:52:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:52:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:52:40] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:52:40] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:52:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:52:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:52:45] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:52:45] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:52:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:52:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:52:50] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:52:50] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:52:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:52:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:52:55] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:52:55] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:52:59] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:52:59] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:53:00] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:53:00] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:53:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:53:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:53:05] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:53:05] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:53:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:53:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:53:10] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:53:10] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:53:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:53:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:53:15] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:53:15] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:53:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:53:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:53:20] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:53:20] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:53:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:53:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:53:25] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:53:25] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:53:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:53:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:53:30] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:53:30] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:53:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:53:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:53:35] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:53:35] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:53:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:53:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:53:40] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:53:40] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:53:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:53:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:53:45] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:53:45] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:53:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:53:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:53:50] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:53:50] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:53:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:53:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:53:55] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:53:55] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:53:59] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:53:59] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:54:00] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:54:00] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:54:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:54:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:54:05] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:54:05] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:54:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:54:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:54:10] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:54:10] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:54:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:54:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:54:15] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:54:15] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:54:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:54:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:54:20] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:54:20] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:54:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:54:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:54:25] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:54:25] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:54:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:54:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:54:30] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:54:30] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:54:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:54:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:54:35] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:54:35] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:54:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:54:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:54:40] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:54:40] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:54:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:54:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:54:45] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:54:45] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:54:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:54:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:54:50] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:54:50] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:54:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:54:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:54:55] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:54:55] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:54:59] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:54:59] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:55:00] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:55:00] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:55:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:55:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:55:05] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:55:05] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:55:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:55:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:55:10] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:55:10] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:55:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:55:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:55:15] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:55:15] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:55:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:55:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:55:20] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:55:20] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:55:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:55:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:55:25] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:55:25] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:55:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:55:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:55:30] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:55:30] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:55:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:55:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:55:35] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:55:35] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:55:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:55:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:55:40] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:55:40] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:55:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:55:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:55:45] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:55:45] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:55:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:55:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:55:50] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:55:50] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:55:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:55:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:55:55] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:55:55] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:55:59] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:55:59] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:56:00] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:56:00] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:56:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:56:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:56:05] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:56:05] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:56:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:56:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:56:10] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:56:10] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:56:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:56:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:56:15] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:56:15] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:56:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:56:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:56:20] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:56:20] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:56:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:56:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:56:25] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:56:25] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:56:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:56:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:56:30] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:56:30] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:56:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:56:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:56:35] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:56:35] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:56:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:56:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:56:40] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:56:40] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:56:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:56:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:56:45] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:56:45] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:56:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:56:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:56:50] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:56:50] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:56:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:56:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:56:55] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:56:55] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:56:59] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:56:59] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:57:00] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:57:00] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:57:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:57:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:57:05] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:57:05] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:57:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:57:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:57:10] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:57:10] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:57:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:57:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:57:15] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:57:15] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:57:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:57:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:57:20] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:57:20] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:57:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:57:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:57:25] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:57:25] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:57:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:57:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:57:30] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:57:30] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:57:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:57:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:57:35] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:57:35] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:57:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:57:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:57:40] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:57:40] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:57:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:57:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:57:45] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:57:45] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:57:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:57:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:57:50] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:57:50] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:57:54] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:57:54] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:57:55] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:57:55] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:57:59] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:57:59] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:58:00] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:58:00] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:58:04] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:58:04] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:58:05] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:58:05] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:58:09] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:58:09] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:58:10] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:58:10] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:58:14] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:58:14] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:58:15] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:58:15] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:58:19] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:58:19] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:58:20] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:58:20] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:58:24] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:58:24] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:58:25] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:58:25] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:58:29] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:58:29] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:58:30] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:58:30] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:58:34] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:58:34] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:58:35] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:58:35] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:58:39] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:58:39] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:58:40] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:58:40] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:58:44] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:58:44] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:58:45] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:58:45] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:58:49] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:58:49] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
+[2025-09-07 23:58:50] :: grid-overwatch-bridge :: [INFO] :: State request received from 127.0.0.1. Transmitting GOB core state.
+[2025-09-07 23:58:50] :: grid-overwatch-bridge :: [DEBUG] :: HTTP request: 127.0.0.1 "GET /state HTTP/1.1" 200 -
